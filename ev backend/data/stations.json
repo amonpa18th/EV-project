@@ -1,0 +1,7669 @@
+[
+  {
+    "name": "PEA VOLTA นครราชสีมา",
+    "province": "นครราชสีมา",
+    "address": "2 ถ.มุขมนตรี ต.ในเมือง",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0835495,
+        14.97424412
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA นครชัยศรี",
+    "province": "นครปฐม",
+    "address": "9 หมู่1 ต.ไทยาวาส อ.นครชัยศรี จ.นครปฐม 73121",
+    "openingHours": "06.00 น. - 20.00น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.1887054,
+        13.80342865
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สำนักงานใหญ่",
+    "province": "กรุงเทพฯ",
+    "address": "200 ถนนงามวงศ์วาน แขวงลาดยาว เขตจตุจักร กทม. 10900",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5585785,
+        13.85042763
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ชลบุรี",
+    "province": "ชลบุรี",
+    "address": "47/1 หมู่ 3 ต.เสม็ด อ.เมือง จ.ชลบุรี 20000",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9516296,
+        13.32859802
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขาย้อย",
+    "province": "เพชรบุรี",
+    "address": "135 หมู่ 4 ถ.เพชรเกษม ต.สระพัง อ.เขาย้อย จ.เพชรบุรี 76140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.82255554,
+        13.26557732
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หัวหิน",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "2/7 ถ.เพชรเกษม ต.หนองแก อ.หัวหิน 77110",
+    "openingHours": "07.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.96103668,
+        12.55186462
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พัทยาใต้",
+    "province": "ชลบุรี",
+    "address": "321/1 หมู่ที่ 10 ต.หนองปรีอ อ.บางละมุง จ. ชลบุรี 20150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.8840332,
+        12.92267895
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สมุทรสาคร",
+    "province": "สมุทรสาคร",
+    "address": "1062 ถ.วิเชียรโชฏก ต.มหาชัย อ.เมือง จ.สมุทรสาคร 74000",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2647705,
+        13.54332638
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปากช่อง",
+    "province": "นครราชสีมา",
+    "address": "171 ถ.มิตรภาพ ต.ปากช่อง อ.ปากช่อง ต.นครราชสีมา 30130",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.4057312,
+        14.69263268
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA รังสิต",
+    "province": "ปทุมธานี",
+    "address": "60 หมู่ 6 ถนนพหลโยธิน ต.คลองหนึ่ง อ.คลองหลวง จ.ปทุมธานี 12120",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6161881,
+        14.04528141
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พระนครศรีอยุธยา",
+    "province": "พระนครศรีอยุธยา",
+    "address": "46 หมู่ 6 ต.หันตรา อ.เมือง จ.พระนครศรีอยุธยา 13000",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6033554,
+        14.38348198
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังมะนาว (เพชรเกษม ขาออก)",
+    "province": "เพชรบุรี",
+    "address": "3/1 ม.2 ถ.เพชรเกษม ต.ห้วยโรง อ.เขาย้อย จ.เพชรบุรี 76140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.827723,
+        13.318703
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ชะอำ",
+    "province": "เพชรบุรี",
+    "address": "555/5 ถ.เพชรเกษม (ชะอำ) ต.เขาใหญ่ อ.ชะอำ จ.เพชรบุรี 76120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.94063,
+        12.81797
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ละแม",
+    "province": "ชุมพร",
+    "address": "139 ม.9 ต.ทุ่งหลวง อ.ละแม จ.ชุมพร 86170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.078615,
+        9.774321
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองกระบี่",
+    "province": "กระบี่",
+    "address": "48/26 ถ.ศรีพังงา ต.ปากน้ำ อ.เมือง จ.กระบี่ 81000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.902471,
+        8.103181
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก คลองท่อม",
+    "province": "กระบี่",
+    "address": "154 ม.1 ถ.เพชรเกษม (4) ต.ห้วยน้ำขาว อ.คลองท่อม จ.กระบี่ 81120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.1637292,
+        7.8700825
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก พุนพิน",
+    "province": "สุราษฎร์ธานี",
+    "address": "85 ม.3 ถ.เอเซีย ต.หัวเตย อ.พุนพิน จ.สุราษฎร์ธานี 84130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.159488,
+        9.126541
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พะเยา",
+    "province": "พะเยา",
+    "address": "159 หมู่ 1 ต.แม่ปืม อ.เมือง จ.พะเยา 56000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.873795,
+        19.199128
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แพร่",
+    "province": "แพร่",
+    "address": "189 หมู่ 8 ต.นาจักร อ.เมือง จ.แพร่ 54000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.149204,
+        18.114801
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ร้อยเอ็ด",
+    "province": "ร้อยเอ็ด",
+    "address": "308 หมู่ 7 ถนน เลี่ยง เมือง ต.ดงลาน อ.เมือง จ.ร้อยเอ็ด 45000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.626819,
+        16.045468
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพิษณุโลก (ข้างเซ็นทรัล)",
+    "province": "พิษณุโลก",
+    "address": "68/3 ม.5 ถ.สายพิษณุโลก-สุโขทัย ต.พลายชุมพล อ.เมืองพิษณุโลก จ.พิษณุโลก 65000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.231461,
+        16.842585
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพิษณุโลก (ทล.11 กม.228)",
+    "province": "พิษณุโลก",
+    "address": "555 ม.3 ต.ดอนทอง อ.เมืองพิษณุโลก จ.พิษณุโลก 65000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.347069,
+        16.851477
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก คลองขลุง",
+    "province": "กำแพงเพชร",
+    "address": "39/8 ม.10 ต.คลองขลุง อ.คลองขลุง จ.กำแพงเพชร 62120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.703566,
+        16.209973
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองตาก",
+    "province": "ตาก",
+    "address": "9 ม.5 ต.เชียงเงิน อ.เมืองตาก จ.ตาก 63000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.129101,
+        16.879123
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ปากช่อง",
+    "province": "นครราชสีมา",
+    "address": "199 ม.1 ถ.มิตรภาพ ต.ปากช่อง อ.ปากช่อง จ.นครราชสีมา 30130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.357804,
+        14.651944
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สีคิ้ว (มิตรภาพ กม.92)",
+    "province": "นครราชสีมา",
+    "address": "25 ม.12 ต.ลาดบัวขาว อ.สีคิ้ว จ.นครราชสีมา 30340",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.607413,
+        14.840834
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครราชสีมา (มิตรภาพ กม. 141)",
+    "province": "นครราชสีมา",
+    "address": "1587/1 ถ.มิตรภาพ ต.บ้านใหม่ อ.เมือง จ.นครราชสีมา 30000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.041147,
+        14.957339
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางปะอิน (สายเอเชีย กม. 62 ขาออก)",
+    "province": "พระนครศรีอยุธยา",
+    "address": "59 ม.3 สายเอเชีย ต.บ้านหว้า อ.บางปะอิน จ.พระนครศรีอยุธยา 13160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.61233,
+        14.26525
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก แก่งคอย",
+    "province": "สระบุรี",
+    "address": "94 ม.4 ถ.มิตรภาพ ต.ตาลเดี่ยว อ.แก่งคอย จ.สระบุรี 18110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.986792,
+        14.57352
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บายพาสชลบุรี",
+    "province": "ชลบุรี",
+    "address": "99/1 ม.4 ถ.สายอ้อมเมืองชลบุรี ต.หนองไม้แดง อ.เมือง จ.ชลบุรี 20000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.999581,
+        13.413579
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บ้านบึง",
+    "province": "ชลบุรี",
+    "address": "105 ม.5 ถ.สายชลบุรี-บ้านบึง ต.มาบไผ่ อ.บ้านบึง จ.ชลบุรี 20170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.082872,
+        13.331942
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก นาเกลือ",
+    "province": "ชลบุรี",
+    "address": "472/59 ม.4 ต.นาเกลือ อ.บางละมุง จ.ชลบุรี 20150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.910184,
+        12.964252
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หล่มสัก",
+    "province": "เพชรบูรณ์",
+    "address": "145 หมู่ 3 ถนนสระบุรี-หล่มสัก ต.หนองไขว่ \tอ.หล่มสัก จ.เพชรบูรณ์ 67110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.216408,
+        16.760784
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก อินทร์บุรี (ขาออก)",
+    "province": "สิงห์บุรี",
+    "address": "116 ม.1 ถ.สายเอเชีย ต.น้ำตาล อ.อินทร์บุรี จ.สิงห์บุรี 16110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.357673,
+        14.980995
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก พล",
+    "province": "ขอนแก่น",
+    "address": "10 ม.8 ถ.ทางหลวงแผ่นดินหมายเลข 2 ต.หนองแวงโสกพระ อ.พล จ.ขอนแก่น 40120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.592262,
+        15.723708
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองขอนแก่น (แยกเมืองเก่า)",
+    "province": "ขอนแก่น",
+    "address": "485 ม.12 ถ.สายขอนแก่น-บ้านไผ่ (มิตรภาพ) อ.เมืองเก่า\tเมือง จ.ขอนแก่น 40000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.810791,
+        16.37999
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุดรธานี",
+    "province": "อุดรธานี",
+    "address": "558 ถ.โพศรี ต.หมากแข้ง อ.เมือง จ.อุดรธานี 41000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.800413,
+        17.400516
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองหนองคาย",
+    "province": "หนองคาย",
+    "address": "57/1 ม.5 ถ.สายหนองคาย-โพนพิสัย ต.หาดคำ อ.เมือง จ.หนองคาย 43000",
+    "openingHours": "05.30 น. - 21.30 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.77594,
+        17.89063
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าแซะ",
+    "province": "ชุมพร",
+    "address": "131 ม.3 ถ.เพชรเกษม (4) ต.ท่าข้าม อ.ท่าแซะ จ.ชุมพร 86140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.123183,
+        10.593375
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพังงา",
+    "province": "พังงา",
+    "address": "29/38 ม.3 ต.ตากแดด อ.เมือง จ.พังงา 80180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.479834,
+        8.42492
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก กะทู้",
+    "province": "ภูเก็ต",
+    "address": "2/75-76 ม.2 ถ.ทางหลวงชนบท ป่าตอง-กะทู้ (2010) ต.กะทู้ อ.กะทู้ จ.ภูเก็ต 83120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.344771,
+        7.908677
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองภูเก็ต",
+    "province": "ภูเก็ต",
+    "address": "24/11 ม.4 ถ.วิเศษ ต.ราไวย์ อ.เมือง จ.ภูเก็ต 83130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.336798,
+        7.807702
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สระแก้ว",
+    "province": "สระแก้ว",
+    "address": "6 ถ.สุวรรณศร ต.สระแก้ว อ.เมืองสระแก้ว จ.สระแก้ว 27000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.046313,
+        13.839046
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าใหม่",
+    "province": "จันทบุรี",
+    "address": "67/20 ม.3 ถ.สุขุมวิท ต.ทุ่งเบญจา อ.ท่าใหม่ จ.จันทบุรี 22170",
+    "openingHours": "05.30 น. - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.982054,
+        12.711805
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครราชสีมา (มิตรภาพ กม. 134)",
+    "province": "นครราชสีมา",
+    "address": "444/1 ม.8 ต.โคกกรวด อ.เมืองนครราชสีมา จ.นครราชสีมา 30280",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.982751,
+        14.93461
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองขอนแก่น (มิตรภาพ กม.348)",
+    "province": "ขอนแก่น",
+    "address": "485 ม.12 ถ.สายขอนแก่น-บ้านไผ่ (มิตรภาพ) ต.เมืองเก่า อ.เมืองขอนแก่น จ.ขอนแก่น 40000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.8319109,
+        16.5194778
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ทับสะแก",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "55/5 ม.1 ถ.เพชรเกษม ต.ทับสะแก อ.ทับสะแก จ.ประจวบคีรีขันธ์ 77130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.630973,
+        11.54551
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ทุ่งสง",
+    "province": "นครศรีธรรมราช",
+    "address": "83/1 ม.7\tต.หนองหงส์ อ.ทุ่งสง จ.นครศรีธรรมราช 80110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.6311276,
+        8.175095
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก หาดใหญ่",
+    "province": "สงขลา",
+    "address": "46/1 ถ.เพชรเกษม ต.หาดใหญ่ อ.หาดใหญ่ จ.สงขลา 90110",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.460182,
+        7.004133
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อุบลราชธานี",
+    "province": "อุบลราชธานี",
+    "address": "195 ม.7 ถ.เลี่ยงเมือง \tต.แจระแม\tอ.เมืองอุบลราชธานี จ.อุบลราชธานี 34000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.824689,
+        15.245727
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ซุปเปอร์ไฮเวย์เชียงใหม่",
+    "province": "เชียงใหม่",
+    "address": "99 ม.1 ถ.ซุปเปอร์ไฮเวย์ ต.หนองป่าครั่ง อ.เมืองเชียงใหม่ จ.เชียงใหม่ 50000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.024251,
+        18.79156
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก แม่ลาว",
+    "province": "เชียงราย",
+    "address": "59 ม.2 ถ.พหลโยธิน(พาน-เชียงราย) ต.จอมหมอกแก้ว อ.แม่ลาว จ.เชียงราย 57250",
+    "openingHours": "05.30 น. - 22.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.731283,
+        19.754222
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก พยุหะคีรี",
+    "province": "นครสวรรค์",
+    "address": "41/1 ม.2 ถ.พหลโยธิน ต.ย่านมัทรี อ.พยุหะคีรี จ.นครสวรรค์ 60130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.128167,
+        15.498681
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ขุขันธ์",
+    "province": "ศรีสะเกษ",
+    "address": "58 ม.8 ถ.ทางหลวงแผ่นดินสายโชคชัย-เดชอุดม (24) ต.นิคมพัฒนา อ.ขุขันธ์ จ.ศรีสะ",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.227672,
+        14.65506
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ประโคนชัย",
+    "province": "บุรีรัมย์",
+    "address": "105 ม.1 ต.โคกม้า อ.ประโคนชัย จ.บุรีรัมย์ 31140",
+    "openingHours": "05.30 น. - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.057427,
+        14.611971
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองบุรีรัมย์ (คูเมือง-พุทไธสง)",
+    "province": "บุรีรัมย์",
+    "address": "188 ม.3 ถ.บุรีรัมย์-คูเมือง ต.ชุมเห็ด อ.เมือง จ.บุรีรัมย์ 31000",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.084562,
+        15.053641
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บึงนาราง",
+    "province": "พิจิตร",
+    "address": "456 ม.2 ต.บึงนาราง อ.บึงนาราง จ.พิจิตร 66130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.12824,
+        16.185515
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองตรัง",
+    "province": "ตรัง",
+    "address": "6 ถ.วิเศษกุล ต.นาตาล่วง อ.เมือง จ.ตรัง 92000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.6059461,
+        7.5611534
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองระยอง",
+    "province": "ระยอง",
+    "address": "351/2 ถ.สุขุมวิท ต.เนินพระ อ.เมือง จ.ระยอง 21000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.254501,
+        12.6825
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองชลบุรี",
+    "province": "ชลบุรี",
+    "address": "ถนนเลี่ยงเมืองชลบุรี ต. บ้านสวน อ.เมืองชลบุรี จ.ชลบุรี 20000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.015691,
+        13.36191
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังจันทร์",
+    "province": "ระยอง",
+    "address": "168 ม.6 ต.ป่ายุบใน อ.วังจันทร์ จ.ระยอง 21210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.434814,
+        13.038284
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ชะอวด",
+    "province": "นครศรีธรรมราช",
+    "address": "228/4 ม.2 ถ.ทางหลวงหมายเลข 41 ต.เกาะขันธ์ อ.ชะอวด จ.นครศรีธรรมราช",
+    "openingHours": "05.30 น. - 21.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.928921,
+        7.898508
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เขาสมิง",
+    "province": "ตราด",
+    "address": "92/1 ม.5 ถ.สุขุมวิท ต.แสนตุ้ง อ.เขาสมิง จ.ตราด 23150",
+    "openingHours": "06.00 น. - 20.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.376825,
+        12.378657
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังน้อย (พหลโยธิน กม.57)",
+    "province": "พระนครศรีอยุธยา",
+    "address": "555 ม.2 ถ.พหลโยธิน ต.ลำไทร อ.วังน้อย จ.พระนครศรีอยุธยา 13170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6462,
+        14.19522
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก แกลง",
+    "province": "ระยอง",
+    "address": "337/1 ถ.สุขุมวิท ต.ทางเกวียน อ.แกลง จ.ระยอง 21110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.67267,
+        12.78675
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ดอยสะเก็ด",
+    "province": "เชียงใหม่",
+    "address": "480-480/1 ม.3 ถ.ติดทางหลวงจังหวัดสายดอยสะเก็ด-แม่สาย (1019) ต.เชิงดอย อ.ดอยสะเก็ด จ.เชียงใหม่ 50220",
+    "openingHours": "05.30 น. - 21.30 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.13353,
+        18.873265
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ห้างฉัตร",
+    "province": "ลำปาง",
+    "address": "141 ม.1 ถ.สายล าปาง-เชียงใหม่ ต.ปงยางคก อ.ห้างฉัตร จ.ลำปาง 52190",
+    "openingHours": "06.30 น. - 22.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.390024,
+        18.310821
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าม่วง (ติดโฮมโปร กาญจนบุรี)",
+    "province": "กาญจนบุรี",
+    "address": "6 6 ม.1 ต.ท่าล้อ อ.ท่าม่วง จ.กาญจนบุรี 71000",
+    "openingHours": "05.30 น. - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.560766,
+        13.994435
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครปฐม (เพชรเกษม กม. 61 ขาเข้า)",
+    "province": "นครปฐม",
+    "address": "272 ม.2 ถ.เพชรเกษม ต.ลำพยา อ.เมือง จ.นครปฐม 73000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.022992,
+        13.8034513
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก แม่ริม",
+    "province": "เชียงใหม่",
+    "address": "197 ม.4 ถ.สายเชียงใหม่-ฝาง ต.แม่สา อ.แม่ริม จ.เชียงใหม่ 50180",
+    "openingHours": "05.30 น. - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.94993,
+        18.9011
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA PEA VOLTA บางจาก ดอยหล่อ",
+    "province": "เชียงใหม่",
+    "address": "19 ม.23 ต.ดอยหล่อ อ.ดอยหล่อ จ.เชียงใหม่ 50160",
+    "openingHours": "04.30 น. - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.7519008,
+        18.4525122
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก นาโคก (ขาออก)",
+    "province": "สมุทรสาคร",
+    "address": "84/7 ม.2 ถ.สายธนบุรี-ปากท่อ ต.นาโคก อ.เมือง จ.สมุทรสาคร 74000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.084284,
+        13.452056
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สามพราน",
+    "province": "นครปฐม",
+    "address": "18/8 ม.2 ถ.สายปิ่นเกล้า-นครชัยศรี ต.บางเตย อ.สามพราน จ.นครปฐม 73110",
+    "openingHours": "05.30 น. - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.272556,
+        13.785147
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองชัยนาท",
+    "province": "ชัยนาท",
+    "address": "345/6 ถ.พหลโยธิน ตำบล บ้านกล้วย อำเภอเมืองชัยนาท ชัยนาท 17000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.1361529,
+        15.19296928
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองน่าน",
+    "province": "น่าน",
+    "address": "82/15 ถนน มหายศ ตำบล ในเวียง อำเภอเมืองน่าน น่าน 55000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.7829891,
+        18.79561268
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองบึงกาฬ",
+    "province": "บึงกาฬ",
+    "address": "ตำบล วิศิษฐ์ อำเภอเมืองบึงกาฬ บึงกาฬ 38000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.6345317,
+        18.32344316
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองราชบุรี",
+    "province": "ราชบุรี",
+    "address": "86 หมู่ 8 ถ.เพชรเกษม ตำบล เจดีย์หัก อำเภอเมืองราชบุรี ราชบุรี 70000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.79371069,
+        13.53158613
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองสมุทรสงคราม",
+    "province": "สมุทรสงคราม",
+    "address": "27 หมู่1 ตำบล คลองโคน อำเภอเมืองสมุทรสงคราม สมุทรสงคราม 75000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.94773282,
+        13.3616247
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองหนองบัวลำภู",
+    "province": "หนองบัวลำภู",
+    "address": "255 หมู่ 10, ถนนอุดร - เลย, ตำบลลำภู อำเภอเมืองหนองบัวลำภู จังหวัดหนองบัวลำภู, 39000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.4548141,
+        17.21137302
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองอุตรดิตถ์",
+    "province": "อุตรดิตถ์",
+    "address": "174 บรมอาสน์ ถนน บรมอาสน์ ตำบล ท่าอิฐ อำเภอเมืองอุตรดิตถ์ อุตรดิตถ์ 53000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.0794863,
+        17.60832441
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองอุทัยธานี",
+    "province": "อุทัยธานี",
+    "address": "228 ซอย ตั้งใจงาม ตำบล น้ำซึม อำเภอเมืองอุทัยธานี อุทัยธานี 61000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.0139298,
+        15.36785555
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เวียงสา",
+    "province": "น่าน",
+    "address": "301 หมู่ที่ 10 ตำบล กลางเวียง อำเภอเวียงสา น่าน 55110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6931163,
+        18.71179927
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แม่สะเรียง",
+    "province": "แม่ฮ่องสอน",
+    "address": "255/33 ตำบล บ้านกาด อำเภอแม่สะเรียง แม่ฮ่องสอน 58110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        97.93438199,
+        18.18344399
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตะกั่วป่า",
+    "province": "พังงา",
+    "address": "23/19 ถนน เพชรเกษม หมู่ 1 โคกเคียน อำเภอตะกั่วป่า พังงา 82110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.36386043,
+        8.871884603
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เฉลิมพระเกียรติ",
+    "province": "สระบุรี",
+    "address": "101 หมู่ 8 ถนนพหลโยธิน ตำบลหน้าพระลาน อำเภอเฉลิมพระเกียรติ สระบุรี 18000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.867314,
+        14.694627
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองกาญจนบุรี",
+    "province": "กาญจนบุรี",
+    "address": "ตำบล ปากแพรก อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000",
+    "openingHours": "5.00 - 21.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.577985,
+        14.037225
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองฉะเชิงเทรา",
+    "province": "ฉะเชิงเทรา",
+    "address": "ตำบล วังตะเคียน อำเภอเมืองฉะเชิงเทรา ฉะเชิงเทรา 24000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.052922,
+        13.70589732
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองชลบุรี (หนองมน)",
+    "province": "ชลบุรี",
+    "address": "413 ถนนสุขุมวิท ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.935512,
+        13.271975
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองชัยภูมิ",
+    "province": "ชัยภูมิ",
+    "address": "ตำบล หนองนาแซง อำเภอเมืองชัยภูมิ ชัยภูมิ 36000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.025159,
+        15.771369
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครพนม",
+    "province": "นครพนม",
+    "address": "ตำบล กุรุคุ อำเภอเมืองนครพนม นครพนม 48000",
+    "openingHours": "5.00 - 18.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.558637,
+        17.321242
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองบุรีรัมย์ (โฮมโปร)",
+    "province": "บุรีรัมย์",
+    "address": "500 หมู่9 ตำบล อิสาณ อำเภอเมืองบุรีรัมย์ บุรีรัมย์ 31000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.079848,
+        14.982805
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองปทุมธานี",
+    "province": "ปทุมธานี",
+    "address": "10 ตำบล บางกะดี อำเภอเมืองปทุมธานี ปทุมธานี 12000",
+    "openingHours": "4.00 - 21.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.55101,
+        13.991613
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสระบุรี",
+    "province": "สระบุรี",
+    "address": "64 ตำบล หนองปลาไหล อำเภอเมืองสระบุรี สระบุรี 18000",
+    "openingHours": "5.00 - 22.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.922351,
+        14.460694
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสุพรรณบุรี",
+    "province": "สุพรรณบุรี",
+    "address": "ตำบล ท่าระหัด อำเภอเมืองสุพรรณบุรี สุพรรณบุรี 72000",
+    "openingHours": "5.00 - 20.30 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.142969,
+        14.431953
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุดรธานี (บ้านขาว )",
+    "province": "อุดรธานี",
+    "address": "ตำบล บ้านขาว อำเภอเมืองอุดรธานี อุดรธานี 41000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.8019623,
+        17.565548
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุดรธานี (สนามบิน)",
+    "province": "อุดรธานี",
+    "address": "ตำบลเชียงพิณ อำเภอเมืองอุดรธานี อุดรธานี 41000",
+    "openingHours": "5.00 - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.766377,
+        17.393439
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก แปลงยาว",
+    "province": "ฉะเชิงเทรา",
+    "address": "ตำบล วังเย็น อำเภอแปลงยาว ฉะเชิงเทรา 24190",
+    "openingHours": "5.00 - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2773263,
+        13.57715489
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก โนนสูง",
+    "province": "นครราชสีมา",
+    "address": "ตำบล ดอนหวาย อำเภอโนนสูง นครราชสีมา 30160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.2720513,
+        15.0978741
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก กบินทร์บุรี (นนทรี)",
+    "province": "ปราจีนบุรี",
+    "address": "ตำบล นนทรี อำเภอกบินทร์บุรี ปราจีนบุรี 25110",
+    "openingHours": "5.00 - 22.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.633214,
+        14.045383
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก กบินทร์บุรี (ลาดตะเคียน)",
+    "province": "ปราจีนบุรี",
+    "address": "99 ตำบลลาดตะเคียน อำเภอกบินทร์บุรี ปราจีนบุรี 25110",
+    "openingHours": "5.00 - 22.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.658548,
+        13.904168
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางเลน",
+    "province": "นครปฐม",
+    "address": "9 /2 ตำบลบางภาษี อำเภอบางเลน นครปฐม 73130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.21178,
+        14.01161
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บายพาสโคราช (กม.11 )",
+    "province": "นครราชสีมา",
+    "address": "ตำบล หนองกระทุ่ม อำเภอเมืองนครราชสีมา นครราชสีมา 30000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.082135,
+        15.027023
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บายพาสสุราษฎร์ (กม.5)",
+    "province": "สุราษฎร์ธานี",
+    "address": "ตำบลมะขามเตี้ย อำเภอเมืองสุราษฎร์ธานี สุราษฎร์ธานี 84000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.346481,
+        9.11499
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ปราสาท",
+    "province": "สุรินทร์",
+    "address": "ตำบล ตานี อำเภอปราสาท สุรินทร์ 32140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.277245,
+        14.620816
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สองพี่น้อง",
+    "province": "สุพรรณบุรี",
+    "address": "ตำบล ทุ่งคอก อำเภอสองพี่น้อง สุพรรณบุรี 72110",
+    "openingHours": "5.00 - 21.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.956121,
+        14.17294
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สิชล",
+    "province": "นครศรีธรรมราช",
+    "address": "3/1 หมู่ที่ 10 ถ. สุราษธานี - นครศรีธรรมราช ตำบล เปลี่ยน อำเภอ สิชล นครศรีธรรมราช 80120",
+    "openingHours": "6.00 - 19.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.900638,
+        8.846654
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก องครักษ์",
+    "province": "นครนายก",
+    "address": "ตำบล บางปลากด อำเภอองครักษ์ นครนายก 26120",
+    "openingHours": "5.00 - 23.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.00755,
+        14.163809
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก อ่าวลึก",
+    "province": "กระบี่",
+    "address": "ตำบล อ่าวลึกเหนือ อำเภอ อ่าวลึก กระบี่ 81110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.75145,
+        8.364112
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปัว",
+    "province": "น่าน",
+    "address": "292 ม.1 ต.ปัว อ.ปัว จ.น่าน 55120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9181538,
+        19.17557459
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปากคาด",
+    "province": "บึงกาฬ",
+    "address": "ถนนชยางกูร ตำบล ปากคาด อำเภอ ปากคาด บึงกาฬ 38220",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.3150083,
+        18.31764843
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พรรณานิคม",
+    "province": "สกลนคร",
+    "address": "ตำบล ช้างมิ่ง อำเภอ พรรณานิคม สกลนคร 47130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.8258764,
+        17.36631236
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สว่างแดนดิน",
+    "province": "สกลนคร",
+    "address": "22 ตำบล สว่างแดนดิน อำเภอสว่างแดนดิน สกลนคร 47110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.4946394,
+        17.46815406
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หนองไผ่",
+    "province": "เพชรบูรณ์",
+    "address": "999/1 หมู่ 3 ถนน สระบุรี-หล่มสัก ตำบล หนองไผ่ อำเภอหนองไผ่ เพชรบูรณ์ 67140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.0656422,
+        15.99545307
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองแม่ฮ่องสอน",
+    "province": "แม่ฮ่องสอน",
+    "address": "286/3 ถ.แม่ฮ่องสอน-ปาย ตำบล ปางหมู อำเภอเมืองแม่ฮ่องสอน แม่ฮ่องสอน 58000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        97.9657732,
+        19.31527785
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองมุกดาหาร",
+    "province": "มุกดาหาร",
+    "address": "106, ถนนเมืองใหม่, ตำบลมุกดาหาร อำเภอเมืองมุกดาหาร จังหวัดมุกดาหาร, 49000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.6944418,
+        16.54318768
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองอำนาจเจริญ",
+    "province": "อำนาจเจริญ",
+    "address": "332 ม.8 อ.เมือง Chayangkun, ตำบล บุ่ง อำเภอเมืองอำนาจเจริญ อำนาจเจริญ 37000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.6250347,
+        15.88878265
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองยโสธร",
+    "province": "ยโสธร",
+    "address": "91 ถนน รัตนเขต ตำบลในเมือง อำเภอเมืองยโสธร ยโสธร 35000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.144639,
+        15.79789317
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก แม่สอด",
+    "province": "ตาก",
+    "address": "ตำบล แม่สอด อำเภอแม่สอด ตาก 63110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.594623,
+        16.725243
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสุโขทัย",
+    "province": "สุโขทัย",
+    "address": "41/3 หมู่ 2 ถนนจรดวิถีถ่อง ตำบลปากแคว อำเภอเมืองสุโขทัย สุโขทัย 64000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.822734,
+        17.039489
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก พยุหะคีรี กม.308",
+    "province": "นครสวรรค์",
+    "address": "ตำบล ม่วงหัก อำเภอพยุหะคีรี นครสวรรค์ 60130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.148103,
+        15.407129
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าวุ้ง",
+    "province": "ลพบุรี",
+    "address": "346 หมู่ 1 ถนนสายสิงห์บุรี-ลพบุรี ตำบลท่าวุ้ง อำเภอท่าวุ้ง ลพบุรี 15150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.50856,
+        14.817497
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองมหาสารคาม (แยกแก่งเลิงจาน)",
+    "province": "มหาสารคาม",
+    "address": "ตำบล แก่งเลิงจาน อำเภอเมืองมหาสารคาม มหาสารคาม 44000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.282363,
+        16.166314
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก โพนทอง",
+    "province": "ร้อยเอ็ด",
+    "address": "171 หมู่ 2 ตำบลสระนกแก้ว อำเภอ โพนทอง ร้อยเอ็ด 45110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.976187,
+        16.294737
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุบลราชธานี (ในเมือง)",
+    "province": "อุบลราชธานี",
+    "address": "258 ถ. แจ้งสนิท ตำบล ในเมือง อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.837229,
+        15.253549
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุบลราชธานี (หนองขอน)",
+    "province": "อุบลราชธานี",
+    "address": "274 หมู่ 2 ถนนสายอุบล-ตระการ ตำบลไร่น้อย อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.785756,
+        15.291638
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองกาฬสินธุ์",
+    "province": "กาฬสินธุ์",
+    "address": "33, 33/9 ถนน ถีนานนท์ 9 ถนน ถีนานนท์ กาฬสินธุ์ อำเภอเมืองกาฬสินธุ์ กาฬสินธุ์ 46000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.519713,
+        16.442452
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ไชโย",
+    "province": "อ่างทอง",
+    "address": "66/7 ม.1 ต ตำบล จรเข้ร้อง อำเภอไชโย อ่างทอง",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.472487,
+        14.665474
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังน้อย กม.71",
+    "province": "พระนครศรีอยุธยา",
+    "address": "ถ. พหลโยธิน ตำบล ชะแมบ อำเภอวังน้อย จังหวัดพระนครศรีอยุธยา 13170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.76757,
+        14.255481
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สามโคก",
+    "province": "ปทุมธานี",
+    "address": "ปั๊มน้ำมันเชลล์ ตำบล บางโพธิ์เหนือ อำเภอสามโคก ปทุมธานี 12160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.525593,
+        14.039536
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองระนอง",
+    "province": "ระนอง",
+    "address": "6 202 หมู่ที่ 1 ถ. เพชรเกษม ตำบล บางนอน อำเภอเมืองระนอง ระนอง 85000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.65701866,
+        10.00183734
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA กระบุรี",
+    "province": "ระนอง",
+    "address": "ตำบล ปากจั่น อำเภอ กระบุรี ระนอง 85110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.8658152,
+        10.51464747
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA กะเปอร์",
+    "province": "ระนอง",
+    "address": "Lot 1, 127 ถ. เพชรเกษม ตำบล กะเปอร์ อำเภอ กะเปอร์ ระนอง 85120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.65515276,
+        9.636040814
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA กุยบุรี",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "ตำบลสามกระทาย อำเภอกุยบุรี ประจวบคีรีขันธ์ 77150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.85377536,
+        12.11066602
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองสงขลา",
+    "province": "สงขลา",
+    "address": "ตำบลพะวง อำเภอเมืองสงขลา สงขลา 90100",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5644948,
+        7.145626496
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สะเดา (พังลา)",
+    "province": "สงขลา",
+    "address": "300/25 หมู่ที่5 ตำบล พังลา อำเภอสะเดา สงขลา 90170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.45912933,
+        6.82061911
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ป่าบอน",
+    "province": "พัทลุง",
+    "address": "205 ตำบล ป่าบอน อำเภอ ป่าบอน พัทลุง 93170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.17305756,
+        7.26661015
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองปัตตานี",
+    "province": "ปัตตานี",
+    "address": "ตำบล รูสะมิแล อำเภอเมืองปัตตานี ปัตตานี 94000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2459335,
+        6.886783812
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองยะลา",
+    "province": "ยะลา",
+    "address": "ตำบล สะเตงนอก อำเภอเมืองยะลา ยะลา 95000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2712907,
+        6.522706018
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางละมุง กม.149",
+    "province": "ชลบุรี",
+    "address": "ชลบุรี-พัทยา ตำบล โป่ง อำเภอบางละมุง ชลบุรี 20150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.897219,
+        12.899274
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก พานทอง",
+    "province": "ชลบุรี",
+    "address": "หมู่ที่ 1 105 ตำบล บ้านเก่า อำเภอพานทอง ชลบุรี 20160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.023663,
+        13.454027
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าใหม่ ขาเข้า กม.307",
+    "province": "จันทบุรี",
+    "address": "61/4 หมู่ 3 ถนนสุขุมวิท ตำบลทุ่งเบญจา อำเภอท่าใหม่ จันทบุรี 22170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.97715,
+        12.7168
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก กระทุ่มแบน",
+    "province": "สมุทรสาคร",
+    "address": "8/11 หมู่ 6 ถ. เพชรเกษม ตำบลอ้อมน้อย อำเภอกระทุ่มแบน สมุทรสาคร 74130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.307371,
+        13.705331
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสมุทรสาคร",
+    "province": "สมุทรสาคร",
+    "address": "99/1 ต.นาโคก อ.เมืองสมุทรสาคร สมุทรสาคร 74000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.104638,
+        13.466987
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ชะอำ ขาเข้า (กม.188)",
+    "province": "เพชรบุรี",
+    "address": "719, 52 ถ. เพชรเกษม ตำบล เขาใหญ่ อำเภอชะอำ เพชรบุรี 76120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.942516,
+        12.812739
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ทุ่งใหญ่",
+    "province": "นครศรีธรรมราช",
+    "address": "ตำบล ทุ่งใหญ่ อำเภอ ทุ่งใหญ่ นครศรีธรรมราช 80240",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.416964,
+        8.370616
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เขาพนม",
+    "province": "กระบี่",
+    "address": "ตำบล พรุเตียว อำเภอ เขาพนม กระบี่ 81140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.095019,
+        8.265765
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ถลาง",
+    "province": "ภูเก็ต",
+    "address": "ตำบล ไม้ขาว อำเภอถลาง ภูเก็ต 83110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.359778,
+        7.984717
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางกล่ำ",
+    "province": "สงขลา",
+    "address": "250 ตำบล ท่าช้าง อำเภอบางกล่ำ สงขลา 90110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.404631,
+        7.023408
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสตูล",
+    "province": "สตูล",
+    "address": "ตำบล ควนโพธิ์ อำเภอเมืองสตูล สตูล 91140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.0344785,
+        6.7459066
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนราธิวาส",
+    "province": "นราธิวาส",
+    "address": "ตำบล ลำภู อำเภอเมืองนราธิวาส นราธิวาส 96000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.796096,
+        6.409367
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพัทลุง",
+    "province": "พัทลุง",
+    "address": "4 หมู่ 1 เขาเจียก เมือง พัทลุง 93000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.051131,
+        7.614265
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงดาว",
+    "province": "เชียงใหม่",
+    "address": "429 หมู่ 1 ตำบล แม่นะ อำเภอเชียงดาว เชียงใหม่ 50170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.961195,
+        19.345185
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองเชียงราย",
+    "province": "เชียงราย",
+    "address": "ตำบลสันทราย อำเภอเมืองเชียงราย เชียงราย 57000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7947652,
+        19.8401796
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สบปราบ",
+    "province": "ลำปาง",
+    "address": "เลขที่ 149 หมู่ 15 149 ตำบล สบปราบ อำเภอสบปราบ ลำปาง 52170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.341764,
+        17.902692
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองขอนแก่น (ถ.มะลิวัลย์)",
+    "province": "ขอนแก่น",
+    "address": "298 ถนนมลิวรรณ ตำบลบ้านเป็ด อำเภอเมืองขอนแก่น ขอนแก่น 40000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.757086,
+        16.449754
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก นาวัง",
+    "province": "หนองบัวลำภู",
+    "address": "99 หมู่ 6 ตำบลเทพคีรี อำเภอ นาวัง หนองบัวลำภู 39170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.109066,
+        17.321366
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางปะหัน",
+    "province": "พระนครศรีอยุธยา",
+    "address": "46 หมู่ 4 สายเอเซีย กม.39, อำเภอบางปะหัน",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.524904,
+        14.49134
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ลำลูกกา",
+    "province": "ปทุมธานี",
+    "address": "ทางหลวง3004 ลำลูกกาคลอง7-ธัญบุรี ตำบล บึงคำพร้อย อำเภอลำลูกกา ปทุมธานี",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.74495,
+        13.934561
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสระบุรี (บี5 อเวนิว)",
+    "province": "สระบุรี",
+    "address": "510 43 ถ. พหลโยธิน ตำบล ปากเพรียว อำเภอเมือง สระบุรี 18000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.91045,
+        14.53997
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ศรีราชา กม.4",
+    "province": "ชลบุรี",
+    "address": "เทศบาลนครแหลมฉบัง อำเภอบางละมุง ชลบุรี",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.025905,
+        13.120453
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางน้ำเปรี้ยว",
+    "province": "ฉะเชิงเทรา",
+    "address": "5/5 หมู่ 2 ตำบลหมอนทอง อำเภอบางน้ำเปรี้ยว ฉะเชิงเทรา 24150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.0443,
+        13.87196
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองกระบี่ กม.949",
+    "province": "กระบี่",
+    "address": "169/1 หมู่ 4 ตำบลเขาคราม อำเภอเมืองกระบี่ กระบี่ 81000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.806775,
+        8.262746
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครศรีธรรมราช (อ้อมค่าย)",
+    "province": "นครศรีธรรมราช",
+    "address": "30 25, ตำบล ปากพูน เมือง, นครศรีธรรมราช 80000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.964438,
+        8.459953
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven บาลีฮาย",
+    "province": "ชลบุรี",
+    "address": "7-11 แหลมบาลีฮาย เมืองพัทยา อำเภอบางละมุง ชลบุรี 20150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": 50,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.8670617,
+        12.92479679
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พระนครศรีอยุธยา #2",
+    "province": "พระนครศรีอยุธยา",
+    "address": "60 หมู่ 5 ตำบล ไผ่ลิง อำเภอ พระนครศรีอยุธยา จังหวัด พระนครศรีอยุธยา",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.597199,
+        14.354302
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA นครนายก",
+    "province": "นครนายก",
+    "address": "138 หมู่ที่ 5 ตำบลบ้านใหญ่ อำเภอเมืองนครนายก นครนายก 26000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.22705,
+        14.21733
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปทุมธานี",
+    "province": "ปทุมธานี",
+    "address": "64 ถนน ปทุมสัมพันธ์ ตำบล บางปรอก อำเภอ เมืองปทุมธานี จังหวัด ปทุมธานี 12000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.581677,
+        13.991312
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ธัญบุรี",
+    "province": "ปทุมธานี",
+    "address": "41/5 หมู่2 ถ.รังสิต-นครนายก ต.บึงยี่โถ อ.ธัญบุรี จ.ปธุมธานี 12130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.673836,
+        13.997938
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ชลบุรี #3",
+    "province": "ชลบรี",
+    "address": "ตำบล หนองข้างคอก อำเภอเมืองชลบุรี ชลบุรี 20000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.991245,
+        13.340357
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตราด",
+    "province": "ตราด",
+    "address": "199 ม. 5 ตำบลวังกระแจะ อำเภอเมืองตราด จังหวัดตราด 23000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.492506,
+        12.273417
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านโพธิ์",
+    "province": "ฉะเชิงเทรา",
+    "address": "80 หมู่ที่ 1 ถนน บางปะกง - ฉะเชิงเทรา ตำบล คลองประเวศ อำเภอบ้านโพธิ์ ฉะเชิงเทรา 24140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.032926,
+        13.624993
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สอยดาว",
+    "province": "จันทบุรี",
+    "address": "222 ตำบล ทรายขาว อำเภอ สอยดาว จันทบุรี 22180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.237294,
+        13.101761
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA นครปฐม",
+    "province": "นครปฐม",
+    "address": "242/15 ถนน 25 มกรา ตําบล พระปฐมเจดีย อําเภอเมืองนครปฐม จังหวัดนครปฐม 73000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.069032,
+        13.8238594
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA กาญจนบุรี",
+    "province": "กาญจนบุรี",
+    "address": "49 ตำบล ปากแพรก อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.551769,
+        14.02805
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สุพรรณบุรี",
+    "province": "สุพรรณบุรี",
+    "address": "188 หมู่1 ตำบลสนามชัย อำเภอเมืองสุพรรณบุณี จังหวัดสุพรรณบุรี 72000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.130729,
+        14.5195118
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางเลน",
+    "province": "นครปฐม",
+    "address": "1/1 หมู่ 6 ถนนดอนตูม-บางเลน ต.บางเลน อ.บางเลน นครปฐม 73130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.172547,
+        14.005841
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สำนักงานใหญ่ #3",
+    "province": "กรุงเทพมหานคร",
+    "address": "200 ถนน งามวงศ์วาน แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร 10900",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.558603,
+        13.850493
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สำนักงานใหญ่ #4",
+    "province": "กรุงเทพมหานคร",
+    "address": "200 ถนน งามวงศ์วาน แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร 10900",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.558648,
+        13.850486
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สันกำแพง",
+    "province": "เชียงใหม่",
+    "address": "93 ถนน เชียงใหม่- ดอยสะเก็ด ตำบล สันกำแพง อำเภอสันกำแพง เชียงใหม่ 50130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.104687,
+        18.752846
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แม่ริม",
+    "province": "เชียงใหม่",
+    "address": "107 ตำบล ริมเหนือ อำเภอแม่ริม เชียงใหม่ 50180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.93928,
+        18.926099
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หางดง",
+    "province": "เชียงใหม่",
+    "address": "197 หมู่ที่ 8 ตำบล หนองแก๋ว อำเภอหางดง เชียงใหม่ 50230",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.928179,
+        18.688054
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สันทราย",
+    "province": "เชียงใหม่",
+    "address": "151 หมู่ 4 ถนนสันทราย-พร้าว ตำบลป่าไผ่ อำเภอสันทราย จังหวัดเชียงใหม่ 50210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.04486,
+        18.875833
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองพิจิตร",
+    "province": "พิจิตร",
+    "address": "ซอย บึงสีไฟ 6 ตำบล ในเมือง อำเภอเมืองพิจิตร พิจิตร 66000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.345983,
+        16.438272
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตาก",
+    "province": "ตาก",
+    "address": "3 จอมพล ตำบลระแหง อำเภอเมืองตาก ตาก 63000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.124322,
+        16.868686
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตะพานหิน",
+    "province": "พิจิตร",
+    "address": "119 หมู่ 3 ถนนตะพานหิน-เพชรบูรณ์ ตำบลตะพานหิน อำเภอตะพานหิน จังหวัดพิจิตร 66110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.470242,
+        16.20485
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ขาณุวรลักษบุรี",
+    "province": "กำแพงเพชร",
+    "address": "ถ. พหลโยธิน ต.ดอนแตง อำเภอขาณุวรลักษบุรี กำแพงเพชร 62140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.780533,
+        16.02359
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตากฟ้า",
+    "province": "นครสวรรค์",
+    "address": "14 หมู่1 ซอยนภาเขตพัฒนา ซอย 6 ตำบลตากฟ้า อำเภอตากฟ้า จังหวัดนครสวรรค์ 60190",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.493565,
+        15.345535
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อินทร์บุรี",
+    "province": "สิงห์บุรี",
+    "address": "115 หมู่1 ถนนเอเซีย ตำบลน้ำตาล อำเภออินทร์บุรี จังหวัดสิงห์บุรี 16110 Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.34502,
+        15.006693
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พรหมบุรี",
+    "province": "สิงห์บุรี",
+    "address": "66 ตำบล บ้านหม้อ อำเภอพรหมบุรี สิงห์บุรี 16120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.44991,
+        14.768827
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บึงสามพัน",
+    "province": "เพชรบูรณ์",
+    "address": "ตำบล ซับสมอทอด อำเภอบึงสามพัน เพชรบูรณ์ 67160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.007476,
+        15.811416
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อุดรธานี",
+    "province": "อุดรธานี",
+    "address": "123 หมู่ 5 ถนน ช้างเผือก ตำบล นาดี อำเภอเมืองอุดรธานี อุดรธานี 41000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.780284,
+        17.405852
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ขอนแก่น",
+    "province": "ขอนแก่น",
+    "address": "44 ถนนกสิกรทุ่งสร้าง ตำบลในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.840389,
+        16.441159
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านไผ่",
+    "province": "ขอนแก่่น",
+    "address": "65 หมู่ 2 ถ. มิตรภาพ ตำบล บ้านไผ่ ขอนแก่น 40110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.716102,
+        16.053424
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA น้ำพอง",
+    "province": "ขอนแก่น",
+    "address": "ตำบล วังชัย อำเภอน้ำพอง ขอนแก่น 40140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.869393,
+        16.717228
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ม่วงสามสิบ",
+    "province": "อุุบลราชธานี",
+    "address": "ตำบล ม่วงสามสิบ อำเภอ ม่วงสามสิบ อุบลราชธานี 34140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.714172,
+        15.526292
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขื่องใน",
+    "province": "อุบลราชธานี",
+    "address": "ตำบล ยางขี้นก อำเภอ เขื่องใน อุบลราชธานี 34150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.540307,
+        15.421673
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พิบูลมังสาหาร",
+    "province": "อุบลราชธานี",
+    "address": "ตำบล กุดชมภู อำเภอ พิบูลมังสาหาร อุบลราชธานี 34110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.239675,
+        15.231249
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA มหาชนะชัย",
+    "province": "ยโสธร",
+    "address": "129 หมู่6 ตำบล คูเมือง อำเภอ มหาชนะชัย ยโสธร 35130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.217609,
+        15.499937
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองชัยภูมิ",
+    "province": "ชัยภูมิ",
+    "address": "123 หมู่10 ถนนนิเวศรัตน์ ตำบลโพนทอง อำเภอเมืองชัยภูมิ จังหวัดชัยภูมิ 36000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.084868,
+        15.827968
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองบุรีรัมย์",
+    "province": "บุรีรัมย์",
+    "address": "190 หมู่ 8 ถนนบุรีรัมย์-พุทไธสง ตำบลชุมเห็ด อำเภอเมืองบุรีรัมย์ จังหวัดบุรีรัมย์ รหัสไปรษณีย์ 31000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.101868,
+        15.030314
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เมืองสุรินทร์",
+    "province": "สุรินทร์",
+    "address": "สาขา 164 9 เทศบาล 4 ตำบล ในเมือง อำเภอเมืองสุรินทร์ สุรินทร์ 32000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.5076,
+        14.909363
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA นครราชสีมา 2 (หัวทะเล)",
+    "province": "นครราชสีมา",
+    "address": "หมู่ที่ 1 69 ถนน เพชรมาตุคลา ตำบล พะเนา อำเภอเมืองนครราชสีมา นครราชสีมา 30000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.191139,
+        14.988468
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เพชรบุรี",
+    "province": "เพชรบูุรี",
+    "address": "ถ.ราชดำเนิน ตำบล คลองกระแซง อำเภอเมืองเพชรบุรี เพชรบุรี 76000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.943661,
+        13.098346
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA โพธาราม",
+    "province": "ราชบุรี",
+    "address": "190 ซอย เลิศพาณิชย์ ตำบล โพธาราม อำเภอโพธาราม ราชบุรี 70120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.848212,
+        13.689533
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA จอมบึง",
+    "province": "ราชบุุรี",
+    "address": "35/2 ถนน ราชบุรี - ผาปก ตำบล จอมบึง อำเภอ จอมบึง ราชบุรี 70150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.614005,
+        13.623864
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สวนผึ้ง",
+    "province": "ราชบุรีี",
+    "address": "174 หมู่5 ตำบลท่าเคย อำเภอสวนผึ้ง จังหวัดราชบุรี 70180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.438861,
+        13.545086
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เกาะสมุย",
+    "province": "สุราษฎร์ธานี",
+    "address": "ตำบล อ่างทอง อำเภอเกาะสมุย สุราษฎร์ธานี 84140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.938805,
+        9.520321
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เกาะพะงัน",
+    "province": "สุราษฎร์ธานี",
+    "address": "101 หมู่ 3 ตำบล บ้านใต้ อำเภอเกาะพะงัน สุราษฎร์ธานี 84280",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.992521,
+        9.707834
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พระแสง",
+    "province": "สุราษฎร์ธานี",
+    "address": "ตำบล อิปัน อำเภอ พระแสง สุราษฎร์ธานี 84210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.251158,
+        8.570792
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หัวไทร",
+    "province": "นครศรีธรรมราช",
+    "address": "221 หมู่11 ตำบล หัวไทร อำเภอ หัวไทร นครศรีธรรมราช 80170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.271804,
+        8.048089
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พัทลุง",
+    "province": "พัทลุง",
+    "address": "ตำบล เขาเจียก อำเภอเมืองพัทลุง พัทลุง 93000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.030188,
+        7.601485
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ละงู",
+    "province": "สตูล",
+    "address": "หมู่ที่ 1 323 ตำบล กำแพง อำเภอ ละงู สตูล 91110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7891,
+        6.905125
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เบตง",
+    "province": "ยะลา",
+    "address": "เลขที่ 1 ถ.สโมสร ตำบลเบตง อำเภอเบตง ยะลา 95110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.06825,
+        5.77053
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หาดใหญ่",
+    "province": "สงขลา",
+    "address": "75 ถนน เพชรเกษม ซอย 15/2 ตำบล หาดใหญ่ อำเภอหาดใหญ่ สงขลา 90110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.49627,
+        7.01747
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อ่างทอง",
+    "province": "อ่างทอง",
+    "address": "ตำบล โพสะ อำเภอเมืองอ่างทอง อ่างทอง 14000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.4548526,
+        14.58599517
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ศรีราชา",
+    "province": "ชลบุรี",
+    "address": "5 ถ. สุขุมวิท อำเภอศรีราชา ชลบุรี 20110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9318402,
+        13.1721341
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สังขละบุรี",
+    "province": "กาญจนบุรี",
+    "address": "ตำบลหนองลู อำเภอสังขละบุรี จังหวัดกาญจนบุรี 71240",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.45973,
+        15.15487
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ทองผาภูมิ",
+    "province": "กาญจนบุรี",
+    "address": "160/6 หมู่ที่ 1 ตำบลท่าขนุน อำเภอทองผาภูมิ จังหวัดกาจนบุรี 71180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.6236326,
+        14.74988636
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เสนา",
+    "province": "พระนครศรีอยุธยา",
+    "address": "ตำบล บางนมโค วิเชียรบุรี, จังหวัดพระนครศรีอยุธยา 13110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.4044586,
+        14.32759704
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ศรีมหาโพธิ",
+    "province": "ปราจีนบุรี",
+    "address": "หมู่ที่ 9 145 ตำบล ศรีมหาโพธิ อำเภอศรีมหาโพธิ ปราจีนบุรี 25140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.5123592,
+        13.94896951
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บึง",
+    "province": "ชลบุรี",
+    "address": "บึง อำเภอศรีราชา ชลบุรี 20230",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.022504,
+        13.07476896
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แกลง",
+    "province": "ระยอง",
+    "address": "ตำบลทุ่งควายกิน อำเภอแกลง ระยอง 21110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.687895,
+        12.783078
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางปะกง",
+    "province": "ฉะเชิงเทรา",
+    "address": "ตำบล บางปะกง อำเภอบางปะกง ฉะเชิงเทรา 24130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.994007,
+        13.503372
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ่อทอง",
+    "province": "ชลบุรี",
+    "address": "268 ตำบล บ่อทอง อำเภอบ่อทอง ชลบุรี 20270",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.437952,
+        13.265381
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พานทอง",
+    "province": "ชลบุรี",
+    "address": "1 ตำบล พานทอง อำเภอพานทอง ชลบุรี 20160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.0956085,
+        13.47108994
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA โคกขาม",
+    "province": "สมุทรสาคร",
+    "address": "ตำบล โคกขาม อำเภอเมืองสมุทรสาคร สมุทรสาคร 74000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.31421,
+        13.55939
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สามชุก",
+    "province": "สุพรรณบุรี",
+    "address": "ตำบล สามชุก อำเภอสามชุก สุพรรณบุรี 72130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.09742,
+        14.75394
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปากน้ำชุมพร",
+    "province": "ชุมพร",
+    "address": "339/44, 86120, ตำบล ปากน้ำ อำเภอเมืองชุมพร ชุมพร 86120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.242,
+        10.4283
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ดำเนินสะดวก",
+    "province": "ราชบุรี",
+    "address": "ตำบล ดำเนินสะดวก อำเภอดำเนินสะดวก ราชบุรี 70130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.96326824,
+        13.52294453
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เพ",
+    "province": "ระยอง",
+    "address": "ซอย 1/2 ตำบลเพ อำเภอเมืองระยอง ระยอง 21160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.425854,
+        12.623221
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านแพง",
+    "province": "นครพนม",
+    "address": "ตำบล บ้านแพง อำเภอ บ้านแพง นครพนม 48140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.2137863,
+        17.97114197
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ชุมแพ",
+    "province": "ขอนแก่น",
+    "address": "ตำบล ชุมแพ อำเภอชุมแพ ขอนแก่น 40130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.085433,
+        16.5506598
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA วังสะพุง",
+    "province": "เลย",
+    "address": "ตำบล เขาหลวง อำเภอวังสะพุง เลย 42130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.7553409,
+        17.3382918
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปักธงชัย",
+    "province": "นครราชสีมา",
+    "address": "ตำบลเมืองปัก อำเภอปักธงชัย นครราชสีมา 30150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0297886,
+        14.73452838
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA นครราชสีมา",
+    "province": "นครราชสีมา",
+    "address": "ตำบลในเมือง อำเภอเมืองนครราชสีมา นครราชสีมา 30000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0832698,
+        14.97431
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หนองแค",
+    "province": "สระบุรี",
+    "address": "ตำบล หนองปลาหมอ อำเภอหนองแค สระบุรี 18140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.8550583,
+        14.35077883
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปราจีนบุรี",
+    "province": "ปราจีนบุรี",
+    "address": "ตำบลหน้าเมือง อำเภอเมืองปราจีนบุรี ปราจีนบุรี 25000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.3550161,
+        14.05460987
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางปะอิน",
+    "province": "พระนครศรีอยุธยา",
+    "address": "308 ตำบล คลองจิก อำเภอบางปะอิน จังหวัดพระนครศรีอยุธยา 13160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5865018,
+        14.21481565
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA วังน้อย",
+    "province": "พระนครศรีอยุธยา",
+    "address": "ตำบล ลำตาเสา อำเภอวังน้อย จังหวัดพระนครศรีอยุธยา 13170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.7037339,
+        14.24973948
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปทุมธานี",
+    "province": "ปทุมธานี",
+    "address": "ตำบล บางปรอก อำเภอเมืองปทุมธานี ปทุมธานี 12000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5274131,
+        14.02238574
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สระบุรี",
+    "province": "สระบุรี",
+    "address": "ตำบล ปากเพรียว อำเภอเมืองสระบุรี สระบุรี 18000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.910119,
+        14.53824284
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางแสน",
+    "province": "ชลบุรี",
+    "address": "ถนนบางแสนสาย 2, ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.913077,
+        13.290496
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พนัสนิคม",
+    "province": "ชลบุรี",
+    "address": "ตำบล บ้านช้าง อำเภอพนัสนิคม ชลบุรี 20140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.196295,
+        13.455861
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ระยอง",
+    "province": "ระยอง",
+    "address": "143 หมู่ 2 ถ. สุขุมวิท ตำบลเนินพระ อำเภอเมืองระยอง ระยอง 21000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2239279,
+        12.68333139
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA โพนพิสัย",
+    "province": "หนองคาย",
+    "address": "ตำบล จุมพล อำเภอ โพนพิสัย หนองคาย 43120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.1036771,
+        18.02516626
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA กบินทร์บุรี",
+    "province": "ปราจีนบุรี",
+    "address": "28 3 ตำบล เมืองเก่า อำเภอกบินทร์บุรี ปราจีนบุรี 25240",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.7520505,
+        13.9780549
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ขลุง",
+    "province": "จันทบุรี",
+    "address": "3 ตำบล ขลุง อำเภอ ขลุง จันทบุรี 22110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.241953,
+        12.453096
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านค่าย",
+    "province": "ระยอง",
+    "address": "ตำบล บ้านค่าย อำเภอบ้านค่าย ระยอง 21120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2939286,
+        12.77299712
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA มาบตาพุด",
+    "province": "ระยอง",
+    "address": "18 ถนนมาบตาพุดเมืองใหม่สาย7 ตำบล ห้วยโป่ง อำเภอเมืองระยอง ระยอง 21150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.128415,
+        12.722244
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปลวกแดง",
+    "province": "ระยอง",
+    "address": "ตำบล ปลวกแดง อำเภอปลวกแดง ระยอง 21140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2136095,
+        12.97125765
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อ้อมน้อย",
+    "province": "นครปฐม",
+    "address": "72 106 หมู่ที่ 9 ถ. พุทธมณฑลสาย 5 ตำบล ไร่ขิง อำเภอสามพราน นครปฐม 73210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2979296,
+        13.72346038
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปราณบุรี",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "ตำบล หนองตาแต้ม อำเภอปราณบุรี ประจวบคีรีขันธ์ 77120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.88548852,
+        12.36271506
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ชะอำ",
+    "province": "เพชรบุรี",
+    "address": "ตำบล ชะอำ อำเภอชะอำ เพชรบุรี 76120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.92868662,
+        12.71771893
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คลองหลวง",
+    "province": "ปทุมธานี",
+    "address": "ตำบล คลองห้า อำเภอคลองหลวง ปทุมธานี 12120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.7071769,
+        14.06698989
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พร้าว",
+    "province": "เชียงใหม่",
+    "address": "ตำบล เวียง อำเภอพร้าว เชียงใหม่ 50190",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.1949453,
+        19.3693843
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แม่สาย",
+    "province": "เชียงราย",
+    "address": "226 หมู่ 8 ตำบล แม่สาย อำเภอแม่สาย เชียงราย 57130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8875088,
+        20.42733314
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ลี้",
+    "province": "ลำพูน",
+    "address": "333 หมู่ 4 ตำบล ลี้ อำเภอลี้ ลำพูน 51110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.9525441,
+        17.7909284
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านดุง",
+    "province": "อุดรธานี",
+    "address": "2022 ตำบล บ้านดุง อำเภอ บ้านดุง อุดรธานี 41190",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.25028,
+        17.67753551
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านบึง",
+    "province": "ชลบุรี",
+    "address": "ตำบล บ้านบึง อำเภอบ้านบึง ชลบุรี 20170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.124067,
+        13.297005
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สามพราน",
+    "province": "นครปฐม",
+    "address": "33/1 หมู่1 ถ. เพชรเกษม ตำบลท่าตลาด อำเภอสามพราน นครปฐม 73110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2127211,
+        13.74307048
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สตูล",
+    "province": "สตูล",
+    "address": "104, 6 ซอย สฤษดิ์ภูมินารถ อำเภอเมืองสตูล สตูล 91000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.0738314,
+        6.611374951
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สทิงพระ",
+    "province": "สงขลา",
+    "address": "ตำบล จะทิ้งพระ อำเภอ สทิงพระ สงขลา 90190",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.4358422,
+        7.4858993
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA รัตภูมิ",
+    "province": "สงขลา",
+    "address": "436 ถนน ยนตรการกำธร ตำบล ท่าชะมวง อำเภอรัตภูมิ สงขลา 90180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2378159,
+        7.124785
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บันนังสตา",
+    "province": "ยะลา",
+    "address": "ตำบล บันนังสตา อำเภอ บันนังสตา ยะลา 95130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.24871063,
+        6.25653791
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตากใบ",
+    "province": "นราธิวาส",
+    "address": "29/14 ตำบล เจ๊ะเห อำเภอ ตากใบ นราธิวาส 96110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0400167,
+        6.2548448
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เลย",
+    "province": "เลย",
+    "address": "ตำบลกุดป่อง อำเภอเมืองเลย เลย 42000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.7272441,
+        17.4847555
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA จัตุรัส",
+    "province": "ชัยภูมิ",
+    "address": "ถนน ชัยภูมิ - สีคิ้ว ตำบล กุดน้ำใส อำเภอจัตุรัส ชัยภูมิ 36130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.8389257,
+        15.5447919
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ประทาย",
+    "province": "นครราชสีมา",
+    "address": "ตำบล กระทุ่มราย อำเภอ ประทาย นครราชสีมา 30180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.7063217,
+        15.5253038
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ฝาง",
+    "province": "เชียงใหม่",
+    "address": "ตำบล สันทราย อำเภอ ฝาง เชียงใหม่ 50110",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.2092,
+        19.9206
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แม่อาย",
+    "province": "เชียงใหม่",
+    "address": "ตำบล แม่อาย อำเภอ แม่อาย เชียงใหม่ 50280",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.3295,
+        20.0416
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แม่จัน",
+    "province": "เชียงราย",
+    "address": "161 1089 Tambon Pa Tueng, Amphoe Mae Chan, Chang Wat Chiang Rai 57110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8425,
+        20.1382
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงราย",
+    "province": "เชียงราย",
+    "address": "73 Soi Rat Det Damrong 3, Tambon Rop Wiang, Amphoe Mueang Chiang Rai, Chang Wat Chiang Rai 57000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8233,
+        19.9115
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ทุ่งเสลี่ยม",
+    "province": "สุโขทัย",
+    "address": "333 Soi 5 Mu 2, Tambon Klang Dong, Amphoe Thung Saliam, Chang Wat Sukhothai 64150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.526,
+        17.3271
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงคาน",
+    "province": "เลย",
+    "address": "VMG4+H3G, 201, Tambon Chiang Khan, Amphoe Chiang Khan, Chang Wat Loei 42110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.655,
+        17.8763
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านโป่ง",
+    "province": "ราชบุรี",
+    "address": "RVMC+X9 Pak Raet, Ban Pong District, Ratchaburi, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.871,
+        13.835
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สิชล",
+    "province": "นครศรีธรรมราช",
+    "address": "XVCV+9JQ, Thung Prang, Sichon District, Nakhon Si Thammarat 80120, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8941,
+        8.97098
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ถลาง",
+    "province": "ภูเก็ต",
+    "address": "12/29 Thep Krasattri Rd, Tambon Si Sunthon, Amphoe Thalang, Chang Wat Phuket 83110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.3541,
+        7.99269
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ท่ามะกา",
+    "province": "กาญจนบุรี",
+    "address": "WP3W+C4P, Wai Nieo, Tha Maka District, Kanchanaburi 71120, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7456,
+        13.9037
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แม่แตง",
+    "province": "เชียงใหม่",
+    "address": "4W6Q+C5G 162 Tambon San Mahaphon, Amphoe Mae Taeng, Chang Wat Chiang Mai 50150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.938,
+        19.1111
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ร้องกวาง",
+    "province": "แพร่",
+    "address": "876X+WJ8 377 Tambon Rong Khem, Amphoe Rong Kwang, Chang Wat Phrae 54140, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.299,
+        18.3122
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA กำแพงเพชร",
+    "province": "กำแพงเพชร",
+    "address": "343 Tesa Rd 2, Tambon Nai Mueang, Amphoe Mueang Kamphaeng Phet, Chang Wat Kamphaeng Phet 62000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.511,
+        16.4896
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สวรรคโลก",
+    "province": "สุโขทัย",
+    "address": "6, 4 ถนน Thetsaban Damri 3, Tambon Mueang Sawankhalok, Amphoe Sawankhalok, Chang Wat Sukhothai 64110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8332,
+        17.3206
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ลาดยาว",
+    "province": "นครสวรรค์",
+    "address": "QQ38+RG Lat Yao, Lat Yao District, Nakhon Sawan, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7663,
+        15.7546
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA หนองบัว",
+    "province": "นครสวรรค์",
+    "address": "VJ7C+C55, Nong Klap, Nong Bua District, Nakhon Sawan 60110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.62,
+        15.8635
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA นครสวรรค์",
+    "province": "นครสวรรค์",
+    "address": "P458+W77, Matulee Rd, Tambon Pak Nam Pho, Amphoe Mueang Nakhon Sawan, Chang Wat Nakhon Sawan 60000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.116,
+        15.7099
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อู่ทอง",
+    "province": "สุพรรณบุรี",
+    "address": "818 Malaiman Rd, Tambon U Thong, Amphoe U Thong, Chang Wat Suphan Buri 72160, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8777,
+        14.3546
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปากพนัง",
+    "province": "นครศรีธรรมราช",
+    "address": "86P2+WMM, Si Som Bru Rd., Pak Phanang, Amphoe Pak Phanang, Chang Wat Nakhon Si Thammarat 80140, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.202,
+        8.3377
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA จุน",
+    "province": "พะเยา",
+    "address": "84VJ+PV8, Huai Khao Kam, Chun District, Phayao 56150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.131,
+        19.3444
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ฮอด",
+    "province": "เชียงใหม่",
+    "address": "5JC6+X9 Hang Dong, Hot District, Chiang Mai, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.6109,
+        18.1725
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงแสน",
+    "province": "เชียงราย",
+    "address": "729/1 Nong Mut Rd, Tambon Wiang, Amphoe Chiang Saen, Chang Wat Chiang Rai 57150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.08,
+        20.277
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พาน",
+    "province": "เชียงราย",
+    "address": "902 หมู่ 1 ต.เมืองพาน Tambon Mueang Phan, Amphoe Phan, Chang Wat Chiang Rai 57120, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7436,
+        19.5564
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงคำ",
+    "province": "พะเยา",
+    "address": "G8H6+2FV, Chedi Kham, Chiang Kham District, Phayao 56110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.311,
+        19.5278
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ลำปาง",
+    "province": "ลำปาง",
+    "address": "456 หมู่ 1 Phahonyothin Rd, Tambon Chomphu, Amphoe Mueang Lampang, Chang Wat Lampang 52100, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.4552,
+        18.251
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงใหม่",
+    "province": "เชียงใหม่",
+    "address": "208/1 วัดเกต เมืองเชียงใหม่, ตำบลวัดเกต อำเภอเมืองเชียงใหม่ เชียงใหม่ 50000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.0072,
+        18.7738
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ลำพูน",
+    "province": "ลำพูน",
+    "address": "137 Lamphun-Pasang Rd, Nai Mueang, Amphoe Mueang Lamphun, Chang Wat Lamphun 51000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.9967,
+        18.5689
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เพชรบูรณ์",
+    "province": "เพชรบูรณ์",
+    "address": "2 Pratu Dao Alley, Tambon Sadiang, Amphoe Mueang Phetchabun, Chang Wat Phetchabun 67000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.163,
+        16.4238
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แคมป์สน",
+    "province": "เพชรบูรณ์",
+    "address": "Q25F+RW, Khaem Son, Khao Kho District, Phetchabun 67280, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.025,
+        16.7601
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขมราฐ",
+    "province": "อุบลราชธานี",
+    "address": "129 Arun Prasert, Tambon Khemmarat, Amphoe Khemmarat, Chang Wat Ubon Ratchathani 34170, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        105.216,
+        16.0385
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สมเด็จ",
+    "province": "กาฬสินธุ์",
+    "address": "MPWX+2X5, Somdet, Somdet District, Kalasin 46150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.75,
+        16.6951
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สุวรรณภูมิ",
+    "province": "ร้อยเอ็ด",
+    "address": "JQ8R+V38, Sa Khu, Suwannaphum District, Roi Et 45130, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.79,
+        15.6172
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA วาปีปทุม",
+    "province": "มหาสารคาม",
+    "address": "428 ม.1 หนองแสง Tambon Nong Saeng, Amphoe Wapi Pathum, Chang Wat Maha Sarakham 44120, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.374,
+        15.8498
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เลิงนกทา",
+    "province": "ยโสธร",
+    "address": "5, Tambon Sam Yaek, Amphoe Loeng Nok Tha, Chang Wat Yasothon 35120, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.544,
+        16.2016
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อุบลราชธานี 2",
+    "province": "อุบลราชธานี",
+    "address": "6 Soi Chayang Kun 42, ตำบลในเมือง, อำเภอเมือง, Chang Wat Ubon Ratchathani 34000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.8502792,
+        15.27387598
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA จอมเทียน",
+    "province": "ชลบุรี",
+    "address": "VW5F+M5C 61 Muang Pattaya, Amphoe Bang Lamung, Chang Wat Chon Buri 20150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9229008,
+        12.85934429
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ภูเก็ต",
+    "province": "ภูเก็ต",
+    "address": "15 Phangnga Rd, Tambon Talat Yai, Amphoe Mueang Phuket, Chang Wat Phuket 83000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.39743137,
+        7.884087407
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ทุ่งสง",
+    "province": "นครศรีธรรมราช",
+    "address": "4MMF+54Q, 403, Tambon Chamai, Amphoe Thung Song, Chang Wat Nakhon Si Thammarat 80110, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.6727595,
+        8.1329673
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เกาะลันตา",
+    "province": "กระบี่",
+    "address": "G3HR+X6W, Ko Lanta Yai, Ko Lanta District, Krabi 81150, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.0910525,
+        7.5297501
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บ้านไร่",
+    "province": "อุทัยธานี",
+    "address": "3HP2+CW5, 3011, Tambon Ban Bueng, Amphoe Ban Rai, Chang Wat Uthai Thani 61140, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.552961,
+        15.0864885
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สิงห์บุรี",
+    "province": "สิงห์บุรี",
+    "address": "WC46+R2 Bang Man, Mueang Sing Buri District, Sing Buri, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.4100578,
+        14.90705557
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ลพบุรี",
+    "province": "ลพบุรี",
+    "address": "RM23+W5M, Thale Chup Son, Mueang Lop Buri District, Lopburi 15000, Thailand",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "DC",
+    "power": 25,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6533369,
+        14.8025195
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สศช.",
+    "province": "กทม.",
+    "address": "สำนักงานสภาพัฒนาการเศรษฐกิจและสังคมแห่งชาติ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5147776,
+        13.75735124
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA จันทบุรี",
+    "province": "จันทบุรี",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟจ.จันทบุรี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.096,
+        12.596
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สุราษฎร์ธานี",
+    "province": "สุราษฎร์ธานี",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟจ.สุราษฎร์ธานี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.3319,
+        9.13449
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ตรัง",
+    "province": "ตรัง",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟจ.ตรัง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.59906769,
+        7.60705233
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven พรหมพิราม",
+    "province": "พิษณุโลก",
+    "address": "7-11 สาขา ดงประคำ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.265,
+        17.197
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ขาณุวรลักษบุรี",
+    "province": "กำแพงเพชร",
+    "address": "สถานีบริการน้ำมัน - CALTEX ใต้ฟ้าปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7977,
+        16.0071
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven ตะพานหิน",
+    "province": "พิจิตร",
+    "address": "7-11 สาขา หน้าโรงพยาบาลสมเด็จพยุพราชตะพานหิน",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.439,
+        16.2159
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ โนนศิลา",
+    "province": "ขอนแก่น",
+    "address": "สถานีบริการน้ำมัน - CALTEX ช.วิบูลย์ บ้านไผ่",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.704,
+        16.0096
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองขอนแก่น",
+    "province": "ขอนแก่น",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ทีอาร์ที เชน คอร์ปอเรชั่น",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.926,
+        16.438
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ โนนสะอาด",
+    "province": "อุดรธานี",
+    "address": "สถานีบริการน้ำมัน - CALTEX หจก. ช.วิบูลย์โนนสะอาด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.893,
+        16.9908
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ หนองหาน",
+    "province": "อุดรธานี",
+    "address": "สถานีบริการน้ำมัน - CALTEX หจก. ช.วิบูลย์หนองหาน",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.152,
+        17.3624
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองขอนแก่น (หน้า มข.)",
+    "province": "ขอนแก่น",
+    "address": "BCP - ขอนแก่น(หน้า มข.)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.832,
+        16.4611
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ศูนย์การค้าอยุธยาซิตี้พาร์ค",
+    "province": "พระนครศรีอยุธยา",
+    "address": "ศูนย์การค้าอยุธยาซิตี้พาร์ค",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.61,
+        14.3368
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก คลองหลวง",
+    "province": "ปทุมธานี",
+    "address": "BCP - ถ.พหลโยธิน กม.33 (ขาออก)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.613,
+        14.0005
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven ลาดบัวหลวง",
+    "province": "พระนครศรีอยุธยา",
+    "address": "7-11 สาขา ถนน 340 ลาดบัวหลวง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.29,
+        14.1571
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ศรีราชา (เขาคันทรง)",
+    "province": "ชลบุรี",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ซุปเปอร์สตาร์ ปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.145,
+        13.1076
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ศรีราชา 2 (หนองขาม)",
+    "province": "ชลบุรี",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. เต็กย้ง เพิ่มพูนทรัพย์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.031,
+        13.118
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก พนัสนิคม",
+    "province": "ชลบุรี",
+    "address": "BCP - บริษัท ยูนิตี้ ปิโตรเลียม จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.283,
+        13.4357
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ บ้านฉาง",
+    "province": "ระยอง",
+    "address": "สถานีบริการน้ำมัน - CALTEX พรมยุรี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.099,
+        12.7468
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ นิคมพัฒนา",
+    "province": "ระยอง",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ชานนท์ ปิโตรเลียม 2020",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.119,
+        12.8421
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เอสโซ่ สอยดาว",
+    "province": "จันทบุรี",
+    "address": "สถานีบริการน้ำมันน้ำมัน - ESSO สาขาสอยดาว",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.225,
+        13.1106
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ปราณบุรี",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "BCP - หจก.ไทยแก๊สปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8914,
+        12.3786
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เขาย้อย",
+    "province": "เพชรบุรี",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. สตาร์โกลด์ปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8201,
+        13.283
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ บ้านนาเดิม",
+    "province": "สุราษฎร์ธานี",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. พี.เอ็ม. ออยล์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.2945,
+        8.8834
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ตะกั่วทุ่ง",
+    "province": "พังงา",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. เดอะ บลู สเตชั่น สาขา 0001",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.3332,
+        8.26801
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ทับปุด",
+    "province": "พังงา",
+    "address": "สถานีบริการน้ำมัน - CALTEX บริษัท จันตนาและบุตร จำกัด สาขา 00001",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.6056,
+        8.47639
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven ปลายพระยา",
+    "province": "กระบี่",
+    "address": "7-11 สาขา ถนนเซาเทิร์นกระบี่-สุราษฎร์ฯ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.882,
+        8.49899
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชียงใหม่ #2",
+    "province": "เชียงใหม่",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟจ.เชียงใหม่",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.00753287,
+        18.77393304
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปาย",
+    "province": "แม่ฮ่องสอน",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟอ.ปาย",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.43426733,
+        19.35856819
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พิษณุโลก",
+    "province": "พิษณุโลก",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟจ.พิษณุโลก",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.3222451,
+        16.81764502
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขตลพบุรี",
+    "province": "ลพบุรี",
+    "address": "การไฟฟ้าส่วนภูมิภาค เขต 3 (ภาคเหนือ) จังหวัดลพบุรี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.653408,
+        14.80246541
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขตนครราชสีมา",
+    "province": "นครราชสีมา",
+    "address": "การไฟฟ้าส่วนภูมิภาค เขต 3 (ภาคตะวันออกฉียงเหนือ) จังหวัดนครราชสีมา",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.018446,
+        14.95043011
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขตพระนครศรีอยุธยา ",
+    "province": "พระนครศรีอยุธยา",
+    "address": "การไฟฟ้าส่วนภูมิภาค เขต 1 (ภาคกลาง) จังหวัดอยุธยา",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6033554,
+        14.38348198
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขตนครศรีธรรมราช",
+    "province": "นครศรีธรรมราช",
+    "address": "การไฟฟ้าส่วนภูมิภาค เขต 2 (ภาคใต้) จังหวัดนครศรีธรรมราช",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.91892605,
+        8.356713427
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ป่าตอง",
+    "province": "ภูเก็ต",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟฟ.ป่าตอง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.2979604,
+        7.8910939
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA พังงา",
+    "province": "พังงา",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟจ.พังงา",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.5326289,
+        8.447943
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA สุไหงโก-ลก",
+    "province": "นราธิวาส",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟอ.สุไหงโก-ลก",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.9430141,
+        6.0203806
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ แม่แตง",
+    "province": "เชียงใหม่",
+    "address": "สถานีบริการน้ำมัน - CALTEX  ส. สายปายปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.852197,
+        19.094717
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก หางดง",
+    "province": "เชียงใหม่",
+    "address": "BCP - บริษัท จิน สเตชั่น จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.925565,
+        18.713031
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองเชียงใหม่ (แม่เหียะ)",
+    "province": "เชียงใหม่",
+    "address": "BCP - ตนุภัท",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.965061,
+        18.740546
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองเชียงราย (รอบเวียง)",
+    "province": "เชียงราย",
+    "address": "สถานีบริการน้ำมัน - CALTEX  เค พาวเวอร์ เชียงราย (CALTEX)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8602391,
+        19.9133378
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองเชียงราย 2 (ป่าอ้อดอนไชย)",
+    "province": "เชียงราย",
+    "address": "สถานีบริการน้ำมัน - CALTEX   เค พาวเวอร์ ป่าอ้อดอนชัย (CALTEX)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7842518,
+        19.8605969
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เทิง",
+    "province": "เชียงราย",
+    "address": "สถานีบริการน้ำมัน - CALTEX ธีร์ เทิง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.160259,
+        19.69167
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เวียงป่าเป้า",
+    "province": "เชียงราย",
+    "address": "สถานีบริการน้ำมัน - CALTEX อเมริกัน แทรกเตอร์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.511703,
+        19.270362
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ สบปราบ",
+    "province": "ลำปาง",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. สเต๊ป ไนซ์ เทรดดิ้ง สาขาที่ 00001",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.341963,
+        17.907056
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA แจ่มฟ้า เมืองลำพูน",
+    "province": "ลำพูน",
+    "address": "แจ่มฟ้าช๊อปปิ้งมอลล์ ลำพูน",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.040796,
+        18.560082
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven เชียงม่วน",
+    "province": "พะเยา",
+    "address": "7-11 สาขา เชียงม่วน",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2857376,
+        18.88798015
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ บางระกำ",
+    "province": "พิษณุโลก",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. บ่อทองก้าวหน้า",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.14861,
+        16.63413
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ นาแก",
+    "province": "นครพนม",
+    "address": "สถานีบริการน้ำมัน - CALTEX หจก. สุวรรณเอสแอลเคบริการ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.50222,
+        16.95017
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven เมืองนครพนม",
+    "province": "นครพนม",
+    "address": "7-11 สาขา ศรีเทพนตรพนม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.789079,
+        17.397716
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ นากลาง",
+    "province": "หนองบัวลำภู",
+    "address": "สถานีบริการน้ำมัน - CALTEX ช วิบูลย์ นากลาง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.24266,
+        17.292825
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุบลราชธานี 3 (ขามใหญ่)",
+    "province": "อุบลราชธานี",
+    "address": "BCP - บริษัท ดีเยี่ยมอุบล คนรักดี จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.837555,
+        15.298462
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA โรงพยาบาลพริ้นซ์ ศรีสะเกษ ",
+    "province": "ศรีสะเกษ",
+    "address": "โรงพยาบาลพริ้นซ์ศรีสะเกษ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.3031462,
+        15.1210497
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สูงเนิน",
+    "province": "นครราชสีมา",
+    "address": "BCP - บริษัท สงวนพงษ์ออยล์ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.907522,
+        14.901577
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ พระทองคำ",
+    "province": "นครราชสีมา",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. บีบี ทวีพลังงาน",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.975673,
+        15.303415
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven สตึก",
+    "province": "บุรีรัมย์",
+    "address": "7-11 สาขา สตึก-บุรีรีมย์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.2951042,
+        15.294972
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เอสโซ่ เมืองบุรีรัมย์",
+    "province": "บุรีรัมย์",
+    "address": "สถานีบริการน้ำมันน้ำมัน - ESSO วีวราออยล์ สำนักงานใหญ่",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.078817,
+        14.98347432
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองนครนายก",
+    "province": "นครนายก",
+    "address": "สถานีบริการน้ำมัน - CALTEX ชัยเจริญออยล์ สาริกา",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.273278,
+        14.269972
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก วิหารแดง",
+    "province": "สระบุรี",
+    "address": "BCP - บริษัท พี พลัส พาวเวอร์ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.956698,
+        14.379639
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองชลบุรี",
+    "province": "ชลบุรี",
+    "address": "สถานีบริการน้ำมัน - CALTEX บริษัท ภัทรพงศ์ปิโตรเลียม จำกัด) (บายพาสชลบุรี)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.995532,
+        13.342126
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ พนัสนิคม",
+    "province": "ชลบุรี",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ฐาอนันต์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.172584,
+        13.463228
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก หนองใหญ่",
+    "province": "ชลบุรี",
+    "address": "BCP - บริษัท สิริกรโกศล ออยล์ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.359475,
+        13.126197
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ศรีราชา 2 (ทุ่งสุขลา)",
+    "province": "ชลบุรี",
+    "address": "BCP - บริษัท แหลมฉบัง ซีพอท 2021 จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.92089,
+        13.074291
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองชลบุรี 3 (แสนสุข)",
+    "province": "ชลบุรี",
+    "address": "BCP - บริษัท บีเอ็มพี แมนเนจเมนท์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.94085,
+        13.26177
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ บ้านค่าย",
+    "province": "ระยอง",
+    "address": "สถานีบริการน้ำมัน - CALTEX หจก. ดาวไฮเท็กซ์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.301526,
+        12.805125
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ วังจันทร์",
+    "province": "ระยอง",
+    "address": "สถานีบริการน้ำมัน - CALTEX 9 Infinity Wangchan",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.53024,
+        12.9186
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เชลล์ ปลวกแดง",
+    "province": "ระยอง",
+    "address": "สถานีบริการน้ำมัน - SHELL แม่น้ำคู้ ปลวกแดง ระยอง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.2495056,
+        12.9252767
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven บางสะพานน้อย",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "7-11 สาขา สามแยกบางสะพานน้อย",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.374487,
+        11.072344
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ชะอวด",
+    "province": "นครศรีธรรมราช",
+    "address": "สถานีบริการน้ำมัน - CALTEX หจก. อุทัยทิพย์ปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.9129,
+        7.960882
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองนครศรีธรรมราช",
+    "province": "นครศรีธรรมราช",
+    "address": "สถานีบริการน้ำมัน - CALTEX หจก. ดาวสันติออยล์",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.927692,
+        8.496343
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ คุระบุรี",
+    "province": "พังงา",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. พัฒน์ดาพล",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.38581,
+        9.22582
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองตรัง",
+    "province": "ตรัง",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ท่ากลางปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.5943465,
+        7.560788
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven ย่านตาขาว",
+    "province": "ตรัง",
+    "address": "7-11 สาขา อ.ย่านตาขาว",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.6748379,
+        7.3782428
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครศรีธรรมราช 2 (นาทราย)",
+    "province": "นครศรีธรรมราช",
+    "address": "BCP - หจก.น้องเก้า",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.925309,
+        8.48398
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ถลาง 2 (ไม้ขาว)",
+    "province": "ภูเก็ต",
+    "address": "BCP - บจก. อนุภาษภูเก็ตสปอร์ต เซ็นเตอร์ (สาขา 1)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.2989722,
+        8.171811
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก หนองจิก",
+    "province": "ปัตตานี",
+    "address": "BCP - หจก.วัชระปิโตรเลียม",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.140374,
+        6.80326
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA ปากช่อง",
+    "province": "นครราชสีมา",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟอ.ปากช่อง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.4057312,
+        14.69263268
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขตอุดรธานี",
+    "province": "อุดรธานี",
+    "address": "การไฟฟ้าส่วนภูมิภาค เขต 1 (ภาคตะวันออกฉียงเหนือ) จังหวัดอุดรธานี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.7606178,
+        17.36828531
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขตเพชรบุรี",
+    "province": "เพชรบุรี",
+    "address": "การไฟฟ้าส่วนภูมิภาค เขต 1 (ภาคใต้) จังหวัดเพชรบุรี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.98330333,
+        13.06028912
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เขาค้อ",
+    "province": "เพชรบูรณ์",
+    "address": "การไฟฟ้าส่วนภูมิภาค กฟอ.เขาค้อ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9975571,
+        16.6322874
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ชัยบาดาล",
+    "province": "ลพบุรี",
+    "address": "BCP - บริษัท รูท ทเวนตี้วัน สเตชั่น จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.127494,
+        15.226005
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครสวรรค์",
+    "province": "นครสวรรค์",
+    "address": "BCP - บริษัท ไทย เพาเวอร์ กู๊ดส์ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.088074,
+        15.707573
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก กุมภวาปี",
+    "province": "อุดรธานี",
+    "address": "BCP - บริษัท ฑีฆเจริญค้าน้ำมัน จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.988851,
+        17.119794
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA โรงแรมริเวอร์ทรีรีสอร์ท เชียงคาน",
+    "province": "เลย",
+    "address": "โรงแรม ริเวอร์ทรี รีสอร์ท",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.6433863,
+        17.891755
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองหนองคาย 2 (โพธิ์ชัย)",
+    "province": "หนองคาย",
+    "address": "BCP - บริษัท เลิศพัฒนาปิโตรเลียม จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.749375,
+        17.862053
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ พนมสารคาม",
+    "province": "ฉะเชิงเทรา",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ดาวพนมเทรดดิ้ง",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.317872,
+        13.721765
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ กระทุ่มแบน",
+    "province": "สมุทรสาคร",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. ชัยพฤกษ์ปิโตรเลี่ยม 1959",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.317018,
+        13.705175
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองสมุทรสาคร 2 (บางกระเจ้า)",
+    "province": "สมุทรสาคร",
+    "address": "BCP - บริษัท ชิดบุญ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.230024,
+        13.539376
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก สามพราน 2 (บางกระทึก)",
+    "province": "นครปฐม",
+    "address": "BCP - บริษัท 1.8 ดีเวล็อปเม้นต์ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.301677,
+        13.759246
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เอสโซ่ เมืองกาญจนบุรี",
+    "province": "กาญจนบุรี",
+    "address": "ทีเอ็มเค พาร์ค กาญจนบุรี (ESSO)",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.50488109,
+        14.05179581
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA มหาวิทยาลัยมหิดล วิทยาเขตกาญจนบุรี",
+    "province": "กาญจนบุรี",
+    "address": "มหาวิทยาลัยมหิดล วิทยาเขตกาญจนบุรี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.159679,
+        14.130229
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ไทรโยค",
+    "province": "กาญจนบุรี",
+    "address": "BCP - บริษัท แอล.อาร์.เซอร์วิส จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.280542,
+        14.089515
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ละแม 2 (สวนแตง)",
+    "province": "ชุมพร",
+    "address": "BCP - บริษัท เอส.พี.ปิโตรเลียม อินเตอร์ กรุ๊ป จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.1022,
+        9.74023
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก ทุ่งตะโก",
+    "province": "ชุมพร",
+    "address": "BCP - บริษัท เอพีสุราษฎร์เทรดดิ้ง จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.096189,
+        10.155019
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ เมืองชุมพร",
+    "province": "ชุมพร",
+    "address": "สถานีบริการน้ำมัน - CALTEX บจก. เจทีทีบีซซ์ สาขา 00001",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.11654,
+        10.35662
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก จอมบึง",
+    "province": "ราชบุรี",
+    "address": "BCP - บริษัท เอสเจซี เพาเวอร์ จำกัด",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.614588,
+        13.626285
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA 7-Eleven เมืองประจวบคีรีขันธ์",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "7-11 สาขา ถนนสุขใจ ซอย 14",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.792221,
+        11.80022
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA คาลเท็กซ์ ปราณบุรี",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "สถานีบริการน้ำมัน - CALTEX พีเอส ปราณบุรี",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.88494,
+        12.357784
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA เอสโซ่ เขาย้อย",
+    "province": "เพชรบุรี",
+    "address": "สถานีบริการน้ำมันน้ำมัน - ESSO วัฒนา-วังมะนาว",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.82495446,
+        13.30283829
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA บางจาก หาดใหญ่ 2 (คอหงส์)",
+    "province": "สงขลา",
+    "address": "BCP - บริษัท เซาท์เทอร์น ยูเนี่ยน กรุ๊ป จำกัด สาขานวลแก้วอุทิศ",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 120,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.499546,
+        7.0299856
+      ]
+    }
+  },
+  {
+    "name": "คาลเท็กซ์ สาขาน้ำมันดาวพนม",
+    "province": "ฉะเชิงเทรา",
+    "address": "654/5 หมู่ 1 ตำบลพนมสารคาม อำเภอพนมสารคาม จังหวัดฉะเชิงเทรา 24120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.3590491,
+        13.7481415
+      ]
+    }
+  },
+  {
+    "name": "สถานี เข้าท่า บ้านบึง",
+    "province": "ชลบุรี",
+    "address": "101 หมู่ 1 ตำบล หนองซ้ำซาก อำเภอบ้านบึง ชลบุรี 20170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.0788117,
+        13.3343054
+      ]
+    }
+  },
+  {
+    "name": "บริษัท พรีไซซ ซิสเท็ม",
+    "province": "นนทบุรี",
+    "address": "เลขที่ 1/333 หมู่ที่ 9 ตำบลบางพูด อำเภอปากเกร็ด จังหวัดนนทบุรี",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5203805,
+        13.912317
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ พาข้าวโคราช",
+    "province": "นครราชสีมา",
+    "address": "ห้างสรรพสินค้า พาข้าวโคราช 399 ถนนมิตรภาพ-หนองคาย ต.ในเมือง อ.เมืองนครราชสีมา จ.นครราชสีมา 30000 (ร่วมเครือข่าย PEA VOLTA)",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0942411,
+        14.9874786
+      ]
+    }
+  },
+  {
+    "name": "แอนดาซ พัทยา จอมเทียน บีซ",
+    "province": "ชลบุรี",
+    "address": "345 หมู่ 3 ต.นาจอมเทียน อ.สัตหีบ จ.จังหวัดชลบุรี 20250 ประเทศไทย",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9109739,
+        12.7917544
+      ]
+    }
+  },
+  {
+    "name": "ชีจรรย์ กอล์ฟ รีสอร์ท",
+    "province": "ชลบุรี",
+    "address": "เลขที่ 108/18 หมู่ 6 ตำบลนาจอมเทียน อำเภอสัตหีบ จังหวัดชลบุรี 20250",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9652455,
+        12.7709943
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ ฮูลิแกน คาเฟ่",
+    "province": "จันทบุรี",
+    "address": "6002 ตำบล ตะกาดเง้า อำเภอท่าใหม่ จันทบุรี 22120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.9962532,
+        12.6146188
+      ]
+    }
+  },
+  {
+    "name": "ฮับสถานีชาร์จยานยนต์ไฟฟ้า เมืองประจวบฯ",
+    "province": "ประจวบคีรีขันธ์",
+    "address": "ตำบล เกาะหลัก อำเภอเมืองประจวบคีรีขันธ์ ประจวบคีรีขันธ์",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.77426,
+        11.7948053
+      ]
+    }
+  },
+  {
+    "name": "ลอฟท์ มาเนีย บูติค โฮเทล",
+    "province": "ชุมพร",
+    "address": "89 9 ถนนพิศิษฐ์พยาบาล ตำบล ท่าตะเภา อำเภอเมืองชุมพร ชุมพร 86000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.1817993,
+        10.4968705
+      ]
+    }
+  },
+  {
+    "name": "สถานีบมจ.พีโอออยล์ กม. 12 สาขา 10",
+    "province": "นครราชสีมา",
+    "address": "PTT Station ปตท. สถานีบริการ LPG+EV พีโอออยล์ สาขา10 ถ. มิตรภาพ ตำบล หนองงูเหลือม อำเภอเฉลิมพระเกียรติ นครราชสีมา 30310",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.211323,
+        15.0803155
+      ]
+    }
+  },
+  {
+    "name": "สถานีบมจ.พีโอออยล์ บายพาส สาขา 22",
+    "province": "นครราชสีมา",
+    "address": "บายพาส โคราช+EV Charger ตำบล หนองกระทุ่ม อำเภอเมืองนครราชสีมา นครราชสีมา 30000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.078372,
+        15.0260207
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จครัวกล้วยหอม แก่งกระจาน",
+    "province": "เพชรบุรี",
+    "address": "123 ม.2 ตำบล พุสวรรค์ อำเภอแก่งกระจาน เพชรบุรี 76170",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.7231977,
+        13.0323771
+      ]
+    }
+  },
+  {
+    "name": "สถานีธนารักษ์พัฒนาสินทรัพย์ 4",
+    "province": "กรุงเทพมหานคร",
+    "address": "ศูนย์ประชุมวายุภักษ์ 108 ถนน แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพมหานคร 10210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5662284,
+        13.8820765
+      ]
+    }
+  },
+  {
+    "name": "สถานีธนารักษ์พัฒนาสินทรัพย์ 2",
+    "province": "กรุงเทพมหานคร",
+    "address": "120 หมู่ที่ 3 ถ. แจ้งวัฒนะเขตทุ่งสองห้องเขตหลักสี่ กรุงเทพมหานคร 10210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5651716,
+        13.8788451
+      ]
+    }
+  },
+  {
+    "name": "สถานีธนารักษ์พัฒนาสินทรัพย์ 1",
+    "province": "กรุงเทพมหานคร",
+    "address": "อาคารราชบุรีดิเรกฤทธิ์ (อาคาร A) ศูนย์ราชการฯ แจ้งวัฒนะ 120 หมู่ 3 ถ. แจ้งวัฒนะ แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพมหานคร 10210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5653218,
+        13.8845892
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ เอส ดับเบิลยู เอ็น เค. ค้าส่ง",
+    "province": "เชียงราย",
+    "address": "373/1 ม.9 ต.สถาน อ.เชียงของ จ.เชียงราย 57140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.4072569,
+        20.1722613
+      ]
+    }
+  },
+  {
+    "name": "บริษัท ดูลูฟวร์ จำกัด ",
+    "province": "นครปฐม",
+    "address": "6 ตำบล สัมปทวน อำเภอนครชัยศรี นครปฐม 73120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.1965055,
+        13.8385205
+      ]
+    }
+  },
+  {
+    "name": "สถานีสหกรณ์การเกษตรลำลูกกา",
+    "province": "ปทุมธานี",
+    "address": "44 ซอย 3 ตำบล บึงคำพร้อย อำเภอลำลูกกา ปทุมธานี 12150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.7480148,
+        13.9356096
+      ]
+    }
+  },
+  {
+    "name": "สนามกอล์ฟพัทยาคันทรีคลับ",
+    "province": "ชลบุรี",
+    "address": "55 หมู่ 2 ถนนไฮเวย์ 331 ตำบลเขาไม้เขียว อำเภอบางละมุง จังหวัดชลบุรี 20150",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.046917,
+        12.9216797
+      ]
+    }
+  },
+  {
+    "name": "สถานีเอสซีจี เซรามิกส์ นิคมอุตสาหกรรมหนองแค",
+    "province": "สระบุรี",
+    "address": "61 หมู่ที่ 1 ตำบลโคกแย้ อำเภอหนองแค จังหวัดสระบุรี 18230",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.8928451,
+        14.3847045
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ หจก.กิมปิโตรเลียม",
+    "province": "พิจิตร",
+    "address": "ปั้มน้ำมันเชลล์ 189 ม.5 ตำบลบ้านนา อำเภวชิรบารมี จังหวัดพิจิตร 66140",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.1459652,
+        16.482626
+      ]
+    }
+  },
+  {
+    "name": "สถานี ม.ทักษิณ(พัทลุง)",
+    "province": "พัทลุง",
+    "address": "222 หมู่ 2 ตำบลบ้านพร้าว อำเภอป่าพะยอม จังวัดพัทลุง 93210",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.9458452,
+        7.8122211
+      ]
+    }
+  },
+  {
+    "name": "สถานี ม.ทักษิณ(สงขลา)",
+    "province": "สงขลา",
+    "address": "สถานี ม.ทักษิณ(สงขลา)",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6097926,
+        7.1620131
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ โรงแรม แฮปปี้ อินน์ รีสอร์ท",
+    "province": "ลพบุรี",
+    "address": "อำเภอเมืองลพบุรี ลพบุรี 15000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.607611,
+        14.7549864
+      ]
+    }
+  },
+  {
+    "name": "สถานีบมจ.พีโอออยล์ โคกสูง 2 สาขา 21",
+    "province": "นครราชสีมา",
+    "address": "ตำบล จอหอ อำเภอเมืองนครราชสีมา นครราชสีมา 30310",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.1275112,
+        15.0549983
+      ]
+    }
+  },
+  {
+    "name": "สถานีบจก.พีโอออยล์ สาขา 2 ตลาดแค",
+    "province": "นครราชสีมา",
+    "address": "ปตท.พี โอ ออยล์ สาขาคง ตำบล ตาจั่น อำเภอคง นครราชสีมา 30260",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.433339,
+        15.3190604
+      ]
+    }
+  },
+  {
+    "name": "โรงพยาบาลลำปาง",
+    "province": "ลำปาง",
+    "address": "280 ถนน พหลโยธิน ตำบล หัวเวียง อำเภอเมืองลำปาง ลำปาง 52000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.5056781,
+        18.2874259
+      ]
+    }
+  },
+  {
+    "name": "อีโวเอซิส มวกเหล็ก",
+    "province": "สระบุรี",
+    "address": "ตำบลมิตรภาพ อำเภอมวกเหล็ก สระบุรี 18180",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.1711872,
+        14.6300899
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ สปีดโก พุนพิน",
+    "province": "สุราษฎร์ธานี",
+    "address": "ม.3 ตำบลหนองไทร อำเภอพุนพิน สุราษฎร์ธานี 84130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.1623181,
+        9.1040433
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ อพวช.",
+    "province": "ปทุมธานี",
+    "address": "องค์การพิพิธภัณฑ์วิทยาศาสตร์แห่งชาติ 39 หมู่ 3 ต.คลองห้า อ.คลองหลวง จ.ปทุมธานี 12120",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.7182506,
+        14.0481703
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จไดนาโวลต์ นครปฐม",
+    "province": "นครปฐม",
+    "address": "252/4 ถ.เพชรเกษม ต.พระประโทน อ.เมืองนครปฐม",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.0927543,
+        13.8151667
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ ริมน่านพิษณุโลก",
+    "province": "พิษณุโลก",
+    "address": "238/77 ถนนบรมไตรโลกนารถ ตำบลในเมือง อำเภอเมืองพิษณุโลก จังหวัดพิษณุโลก",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2556094,
+        16.8074523
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ พิษณุโลกคาร์พาร์ค",
+    "province": "พิษณุโลก",
+    "address": "27/9 ถนนไสฤาไท ตำบลในเมือง อำเภอเมืองพิษณุโลก จังหวัดพิษณุโลก",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2643333,
+        16.8141023
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จโรงพยาบาลโอเวอร์บรุ๊ค",
+    "province": "เชียงราย",
+    "address": "โรงพยาบาลโอเวอร์บรุ๊ค 17 ถนนสิงหไคล ตำบลเวียง อำเภอเมืองเชียงราย เชียงราย 57000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.8289351,
+        19.9124726
+      ]
+    }
+  },
+  {
+    "name": "สถานีบจก.พีโอออยล์ สาขา 5 โนนสูง",
+    "province": "นครราชสีมา",
+    "address": "ปั้มน้ำมันพีโอออยล์ ตำบล ดอนชมพู อำเภอโนนสูง นครราชสีมา 30160",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.3357713,
+        15.1743397
+      ]
+    }
+  },
+  {
+    "name": "สถานีบจก.พีโอออยล์ สาขา 6 โคกสูง 1",
+    "province": "นครราชสีมา",
+    "address": "ปั๊ม LPG พีโอออยล์ สาขา 6 โคกสูง แอลพีจี น้ำมัน 295 หมู่ 1, ตำบลโคกสูง อำเภอเมือง นครราชสีมา 30310",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.1086961,
+        15.0915273
+      ]
+    }
+  },
+  {
+    "name": "สถานี บจก. พีโอ ออยล์ สาขา 15 บ้านเกาะ",
+    "province": "นครราชสีมา",
+    "address": "บ้านเกาะ พีโอออยล์ สาขา15 962 หมู่9 ต.บ้านเกาะ อ.เมืองนครราชสีมา จ.นครราชสีมา 30000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.1374099,
+        15.0073746
+      ]
+    }
+  },
+  {
+    "name": "สถานีชาร์จ โดมินิค บางแสน",
+    "province": "ชลบุรี",
+    "address": "ชลบุรี 578 5 ถ. สุขุมวิท ตำบลแสนสุข อำเภอเมืองชลบุรี ชลบุรี 20130",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9332846,
+        13.2614582
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA HUB ชะอำ",
+    "province": "เพชรบุรี",
+    "address": "ตำบล ชะอำ อำเภอชะอำ เพชรบุรี",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.97077179,
+        12.79484272
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA HUB สถานีไฟฟ้าขอนแก่น",
+    "province": "ขอนแก่น",
+    "address": "15 ถ.มิตรภาพ ตำบลในเมือง อำเภอเมืองขอนแก่น จังหวัดขอนแก่น 40000",
+    "openingHours": "00.00 น. - 24.00 น.",
+    "chargerType": "Unknown",
+    "power": null,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.8450699,
+        16.43770027
+      ]
+    }
+  },
+  {
+    "name": "PEA VOLTA อู่เชิดชัย เมืองนครราชสีมา",
+    "province": "นครราชสีมา",
+    "address": "1069 ถนนมิตรภาพ ตำบลในเมือง อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา 30000",
+    "openingHours": "00:00 น. - 23:59 น.",
+    "chargerType": "Unknown",
+    "power": 300,
+    "source": "PEA_VOLTA",
+    "is_available": true,
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0619125,
+        14.961874
+      ]
+    }
+  }
+]

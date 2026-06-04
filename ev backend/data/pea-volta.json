@@ -1,0 +1,805 @@
+[
+  {
+    "name": "PEA VOLTA นครราชสีมา",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.0835495,
+        14.97424412
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA นครชัยศรี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.1887054,
+        13.80342865
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA สำนักงานใหญ่",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.5585785,
+        13.85042763
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA ชลบุรี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.9516296,
+        13.32859802
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA เขาย้อย",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.82255554,
+        13.26557732
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA หัวหิน",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.96103668,
+        12.55186462
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA พัทยาใต้",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.8840332,
+        12.92267895
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA สมุทรสาคร",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.2647705,
+        13.54332638
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA ปากช่อง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.4057312,
+        14.69263268
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA รังสิต",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6161881,
+        14.04528141
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA พระนครศรีอยุธยา",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6033554,
+        14.38348198
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังมะนาว (เพชรเกษม ขาออก)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.827723,
+        13.318703
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ชะอำ",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.94063,
+        12.81797
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ละแม",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.078615,
+        9.774321
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองกระบี่",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.902471,
+        8.103181
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก คลองท่อม",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.1637292,
+        7.8700825
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก พุนพิน",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.159488,
+        9.126541
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA พะเยา",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.873795,
+        19.199128
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA แพร่",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.149204,
+        18.114801
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA ร้อยเอ็ด",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.626819,
+        16.045468
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพิษณุโลก (ข้างเซ็นทรัล)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.231461,
+        16.842585
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพิษณุโลก (ทล.11 กม.228)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.347069,
+        16.851477
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก คลองขลุง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.703566,
+        16.209973
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองตาก",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.129101,
+        16.879123
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ปากช่อง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.357804,
+        14.651944
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก สีคิ้ว (มิตรภาพ กม.92)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.607413,
+        14.840834
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครราชสีมา (มิตรภาพ กม. 141)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.041147,
+        14.957339
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก บางปะอิน (สายเอเชีย กม. 62 ขาออก)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.61233,
+        14.26525
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก แก่งคอย",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.986792,
+        14.57352
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก บายพาสชลบุรี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.999581,
+        13.413579
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก บ้านบึง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.082872,
+        13.331942
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก นาเกลือ",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.910184,
+        12.964252
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA หล่มสัก",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.216408,
+        16.760784
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก อินทร์บุรี (ขาออก)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.357673,
+        14.980995
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก พล",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.592262,
+        15.723708
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองขอนแก่น (แยกเมืองเก่า)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.810791,
+        16.37999
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองอุดรธานี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.800413,
+        17.400516
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองหนองคาย",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.77594,
+        17.89063
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าแซะ",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.123183,
+        10.593375
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองพังงา",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.479834,
+        8.42492
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก กะทู้",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.344771,
+        7.908677
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองภูเก็ต",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.336798,
+        7.807702
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA สระแก้ว",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.046313,
+        13.839046
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าใหม่",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.982054,
+        12.711805
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครราชสีมา (มิตรภาพ กม. 134)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.982751,
+        14.93461
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองขอนแก่น (มิตรภาพ กม.348)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.8319109,
+        16.5194778
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ทับสะแก",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.630973,
+        11.54551
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ทุ่งสง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.6311276,
+        8.175095
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก หาดใหญ่",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.460182,
+        7.004133
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA อุบลราชธานี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.824689,
+        15.245727
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ซุปเปอร์ไฮเวย์เชียงใหม่",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.024251,
+        18.79156
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก แม่ลาว",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.731283,
+        19.754222
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก พยุหะคีรี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.128167,
+        15.498681
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ขุขันธ์",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        104.227672,
+        14.65506
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ประโคนชัย",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.057427,
+        14.611971
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองบุรีรัมย์ (คูเมือง-พุทไธสง)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        103.084562,
+        15.053641
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก บึงนาราง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.12824,
+        16.185515
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองตรัง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.6059461,
+        7.5611534
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองระยอง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.254501,
+        12.6825
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองชลบุรี",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.015691,
+        13.36191
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังจันทร์",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.434814,
+        13.038284
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ชะอวด",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.928921,
+        7.898508
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เขาสมิง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        102.376825,
+        12.378657
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก วังน้อย (พหลโยธิน กม.57)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.6462,
+        14.19522
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก แกลง",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        101.67267,
+        12.78675
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ดอยสะเก็ด",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.13353,
+        18.873265
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ห้างฉัตร",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.390024,
+        18.310821
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก ท่าม่วง (ติดโฮมโปร กาญจนบุรี)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        99.560766,
+        13.994435
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก เมืองนครปฐม (เพชรเกษม กม. 61 ขาเข้า)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.022992,
+        13.8034513
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก แม่ริม",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.94993,
+        18.9011
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA PEA VOLTA บางจาก ดอยหล่อ",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        98.7519008,
+        18.4525122
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก นาโคก (ขาออก)",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.084284,
+        13.452056
+      ]
+    },
+    "source": "PEA_VOLTA"
+  },
+  {
+    "name": "PEA VOLTA บางจาก สามพราน",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        100.272556,
+        13.785147
+      ]
+    },
+    "source": "PEA_VOLTA"
+  }
+]
