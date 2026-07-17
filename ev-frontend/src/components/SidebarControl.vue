@@ -452,7 +452,7 @@ const batterySOC = ref(100);
 // while keeping all corporate brands in alphabetical order below it.
 const sortedBrands = computed(() => {
   const PRIORITY_BRAND = 'Other / Generic';
-  const all = [...new Set(vehicleList.value.map(v => v.brand))];
+  const all = [...new Set((vehicleList.value || []).map(v => v.brand))];
   const pinned = all.filter(b => b === PRIORITY_BRAND);
   const rest   = all.filter(b => b !== PRIORITY_BRAND).sort();
   return [...pinned, ...rest];

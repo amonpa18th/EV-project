@@ -568,7 +568,7 @@ const loadStations = async () => {
   try {
     const res = await fetch("https://ev-project-5fm2.onrender.com/stations");
     const data = await res.json();
-    stations.value = data.stations || data;
+    stations.value = Array.isArray(data?.stations) ? data.stations : Array.isArray(data) ? data : [];
   } catch (e) {
     console.error("Failed to fetch stations:", e);
   } finally {
@@ -646,7 +646,7 @@ const onMapReady = (map) => {
 
 // แปลงพิกัด GeoJSON [Lng, Lat] เป็น [Lat, Lng]
 const validStations = computed(() => {
-  return stations.value
+  return (stations.value || [])
     .map(s => {
       let lat = null;
       let lng = null;
