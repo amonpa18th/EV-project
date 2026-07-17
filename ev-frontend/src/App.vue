@@ -17,6 +17,8 @@ import MapArea from './components/MapArea.vue';
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
+
 /* จัดโครงสร้างหน้าจอใหญ่ให้แบ่งฝั่งซ้าย-ขวา */
 html, body {
   margin: 0;
@@ -24,6 +26,7 @@ html, body {
   height: 100%;
   width: 100%;
   overflow: hidden;
+  font-family: 'Kanit', sans-serif;
 }
 
 .app-layout-container {
