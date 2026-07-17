@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "cors": "^2.8.6",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.6.1",
     "express": "^4.22.2",
-    "mongoose": "^8.4.0",
+    "fast-xml-parser": "^5.9.0",
+    "mongoose": "^8.24.0",
+    "node-cron": "^4.2.1",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
     "xml2js": "^0.6.2"
   }
 }
