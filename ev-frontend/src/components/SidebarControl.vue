@@ -644,7 +644,7 @@ const searchLocation = async (type, index = null) => {
 
   try {
 
-    const googleRes = await fetch(`/api/places/autocomplete?input=${encodeURIComponent(query)}`, { signal });
+    const googleRes = await fetch(`https://ev-project-5fm2.onrender.com/api/places/autocomplete?input=${encodeURIComponent(query)}`, { signal });
     const googleData = await googleRes.json();
 
     if (googleData && !googleData.fallback && googleData.predictions && googleData.predictions.length > 0) {
@@ -752,7 +752,7 @@ const selectSuggestion = async (type, index, suggestion) => {
     if (suggestion.place_id) {
       target.loading = true;
       try {
-        const res = await fetch(`/api/places/details?place_id=${suggestion.place_id}`);
+        const res = await fetch(`https://ev-project-5fm2.onrender.com/api/places/details?place_id=${suggestion.place_id}`);
         const data = await res.json();
         if (data && data.lat && data.lon) {
           target.coords = [data.lat, data.lon];
@@ -871,7 +871,7 @@ const emitCalculateRoute = async (options = {}) => {
   window.dispatchEvent(new CustomEvent('route-calculation-started'));
 
   try {
-    const res = await fetch('/api/route-plan', {
+    const res = await fetch('https://ev-project-5fm2.onrender.com/api/route-plan', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({

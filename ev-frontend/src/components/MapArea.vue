@@ -566,7 +566,7 @@ const startSimulation = () => {
 // สร้างฟังก์ชันแยกสำหรับการดึงข้อมูล เพื่อให้เรียกซ้ำได้เวลาที่มีการอัปเดต
 const loadStations = async () => {
   try {
-    const res = await fetch("http://localhost:3000/stations");
+    const res = await fetch("https://ev-project-5fm2.onrender.com/stations");
     const data = await res.json();
     stations.value = data.stations || data;
   } catch (e) {
@@ -594,7 +594,7 @@ onMounted(async () => {
   await loadStations();
 
   // Bug 2 Fix: store socket reference so it can be disconnected in onUnmounted
-  socket = io("http://localhost:3000");
+  socket = io("https://ev-project-5fm2.onrender.com");
   socket.on("stations-updated", async () => {
     await loadStations();
   });
