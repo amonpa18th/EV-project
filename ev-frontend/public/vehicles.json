@@ -1,0 +1,371 @@
+[
+  {
+    "id": "byd_atto3_standard",
+    "brand": "BYD",
+    "model": "Atto 3 (Standard Range)",
+    "battery_kwh": 49.92,
+    "range_km": 345,
+    "max_charge_power_kw": 88,
+    "image_url": "/assets/cars/byd_atto_3__standard_range_.png"
+  },
+  {
+    "id": "byd_atto3_extended",
+    "brand": "BYD",
+    "model": "Atto 3 (Extended Range)",
+    "battery_kwh": 60.48,
+    "range_km": 420,
+    "max_charge_power_kw": 88,
+    "image_url": "/assets/cars/byd_atto_3__extended_range_.png"
+  },
+  {
+    "id": "byd_seal_standard",
+    "brand": "BYD",
+    "model": "Seal (Standard Range)",
+    "battery_kwh": 61.44,
+    "range_km": 460,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/byd_seal__standard_range_.png"
+  },
+  {
+    "id": "byd_seal_performance",
+    "brand": "BYD",
+    "model": "Seal (Performance)",
+    "battery_kwh": 82.56,
+    "range_km": 570,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/byd_seal__performance_.png"
+  },
+  {
+    "id": "byd_dolphin",
+    "brand": "BYD",
+    "model": "Dolphin",
+    "battery_kwh": 44.9,
+    "range_km": 340,
+    "max_charge_power_kw": 60,
+    "image_url": "/assets/cars/byd_dolphin.png"
+  },
+  {
+    "id": "byd_han",
+    "brand": "BYD",
+    "model": "Han",
+    "battery_kwh": 85.44,
+    "range_km": 580,
+    "max_charge_power_kw": 120,
+    "image_url": "/assets/cars/byd_han.png"
+  },
+  {
+    "id": "tesla_model3_sr",
+    "brand": "Tesla",
+    "model": "Model 3 (Standard Range)",
+    "battery_kwh": 60,
+    "range_km": 491,
+    "max_charge_power_kw": 170,
+    "image_url": "/assets/cars/tesla_model_3__standard_range_.png"
+  },
+  {
+    "id": "tesla_model3_lr",
+    "brand": "Tesla",
+    "model": "Model 3 (Long Range)",
+    "battery_kwh": 82,
+    "range_km": 614,
+    "max_charge_power_kw": 250,
+    "image_url": "/assets/cars/tesla_model_3__long_range_.png"
+  },
+  {
+    "id": "tesla_modely_sr",
+    "brand": "Tesla",
+    "model": "Model Y (Standard Range)",
+    "battery_kwh": 60,
+    "range_km": 430,
+    "max_charge_power_kw": 170,
+    "image_url": "/assets/cars/tesla_model_y__standard_range_.png"
+  },
+  {
+    "id": "tesla_modely_lr",
+    "brand": "Tesla",
+    "model": "Model Y (Long Range)",
+    "battery_kwh": 75,
+    "range_km": 533,
+    "max_charge_power_kw": 250,
+    "image_url": "/assets/cars/tesla_model_y__long_range_.png"
+  },
+  {
+    "id": "mg_zs_ev",
+    "brand": "MG",
+    "model": "ZS EV",
+    "battery_kwh": 50.3,
+    "range_km": 440,
+    "max_charge_power_kw": 92,
+    "image_url": "/assets/cars/mg_zs_ev.png"
+  },
+  {
+    "id": "mg_ep",
+    "brand": "MG",
+    "model": "EP",
+    "battery_kwh": 61.1,
+    "range_km": 425,
+    "max_charge_power_kw": 58,
+    "image_url": "/assets/cars/mg_ep.png"
+  },
+  {
+    "id": "mg_4",
+    "brand": "MG",
+    "model": "MG4",
+    "battery_kwh": 64,
+    "range_km": 435,
+    "max_charge_power_kw": 117,
+    "image_url": "/assets/cars/mg_mg4.png"
+  },
+  {
+    "id": "neta_v",
+    "brand": "Neta",
+    "model": "V",
+    "battery_kwh": 40.1,
+    "range_km": 401,
+    "max_charge_power_kw": 40,
+    "image_url": "/assets/cars/neta_v.png"
+  },
+  {
+    "id": "neta_x",
+    "brand": "Neta",
+    "model": "X",
+    "battery_kwh": 65,
+    "range_km": 580,
+    "max_charge_power_kw": 120,
+    "image_url": "/assets/cars/neta_x.png"
+  },
+  {
+    "id": "ora_goodcat",
+    "brand": "ORA",
+    "model": "Good Cat",
+    "battery_kwh": 48,
+    "range_km": 400,
+    "max_charge_power_kw": 80,
+    "image_url": "/assets/cars/ora_good_cat.png"
+  },
+  {
+    "id": "gwm_ora07",
+    "brand": "GWM",
+    "model": "ORA 07",
+    "battery_kwh": 76.6,
+    "range_km": 590,
+    "max_charge_power_kw": 140,
+    "image_url": "/assets/cars/gwm_ora_07.png"
+  },
+  {
+    "id": "volvo_xc40_recharge",
+    "brand": "Volvo",
+    "model": "XC40 Recharge",
+    "battery_kwh": 82,
+    "range_km": 418,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/volvo_xc40_recharge.png"
+  },
+  {
+    "id": "volvo_c40_recharge",
+    "brand": "Volvo",
+    "model": "C40 Recharge",
+    "battery_kwh": 82,
+    "range_km": 420,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/volvo_c40_recharge.png"
+  },
+  {
+    "id": "bmw_ix_xdrive40",
+    "brand": "BMW",
+    "model": "iX xDrive40",
+    "battery_kwh": 76.6,
+    "range_km": 425,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/bmw_ix_xdrive40.png"
+  },
+  {
+    "id": "bmw_i4_edrive40",
+    "brand": "BMW",
+    "model": "i4 eDrive40",
+    "battery_kwh": 83.9,
+    "range_km": 590,
+    "max_charge_power_kw": 200,
+    "image_url": "/assets/cars/bmw_i4_edrive40.png"
+  },
+  {
+    "id": "mercedes_eqb_350",
+    "brand": "Mercedes-Benz",
+    "model": "EQB 350 4MATIC",
+    "battery_kwh": 66.5,
+    "range_km": 423,
+    "max_charge_power_kw": 112,
+    "image_url": "/assets/cars/mercedes_benz_eqb_350_4matic.png"
+  },
+  {
+    "id": "mercedes_eqs_450",
+    "brand": "Mercedes-Benz",
+    "model": "EQS 450+",
+    "battery_kwh": 107.8,
+    "range_km": 784,
+    "max_charge_power_kw": 200,
+    "image_url": "/assets/cars/mercedes_benz_eqs_450_.png"
+  },
+  {
+    "id": "toyota_bz4x",
+    "brand": "Toyota",
+    "model": "bZ4X",
+    "battery_kwh": 71.4,
+    "range_km": 500,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/toyota_bz4x.png"
+  },
+  {
+    "id": "honda_ens1",
+    "brand": "Honda",
+    "model": "e:NS1",
+    "battery_kwh": 53.6,
+    "range_km": 420,
+    "max_charge_power_kw": 60,
+    "image_url": "/assets/cars/honda_e_ns1.png"
+  },
+  {
+    "id": "nissan_leaf",
+    "brand": "Nissan",
+    "model": "Leaf",
+    "battery_kwh": 39,
+    "range_km": 311,
+    "max_charge_power_kw": 50,
+    "image_url": "/assets/cars/nissan_leaf.png"
+  },
+  {
+    "id": "nissan_ariya_63kwh",
+    "brand": "Nissan",
+    "model": "Ariya 63 kWh",
+    "battery_kwh": 63,
+    "range_km": 403,
+    "max_charge_power_kw": 130,
+    "image_url": "/assets/cars/nissan_ariya_63_kwh.png"
+  },
+  {
+    "id": "hyundai_ioniq5_sr",
+    "brand": "Hyundai",
+    "model": "IONIQ 5 (Standard Range)",
+    "battery_kwh": 58,
+    "range_km": 385,
+    "max_charge_power_kw": 220,
+    "image_url": "/assets/cars/hyundai_ioniq_5__standard_range_.png"
+  },
+  {
+    "id": "hyundai_ioniq5_lr",
+    "brand": "Hyundai",
+    "model": "IONIQ 5 (Long Range)",
+    "battery_kwh": 72.6,
+    "range_km": 430,
+    "max_charge_power_kw": 220,
+    "image_url": "/assets/cars/hyundai_ioniq_5__long_range_.png"
+  },
+  {
+    "id": "hyundai_ioniq6_lr",
+    "brand": "Hyundai",
+    "model": "IONIQ 6 (Long Range)",
+    "battery_kwh": 77.4,
+    "range_km": 614,
+    "max_charge_power_kw": 233,
+    "image_url": "/assets/cars/hyundai_ioniq_6__long_range_.png"
+  },
+  {
+    "id": "kia_ev6_sr",
+    "brand": "Kia",
+    "model": "EV6 (Standard Range)",
+    "battery_kwh": 58,
+    "range_km": 394,
+    "max_charge_power_kw": 233,
+    "image_url": "/assets/cars/kia_ev6__standard_range_.png"
+  },
+  {
+    "id": "kia_ev6_lr",
+    "brand": "Kia",
+    "model": "EV6 (Long Range)",
+    "battery_kwh": 77.4,
+    "range_km": 528,
+    "max_charge_power_kw": 233,
+    "image_url": "/assets/cars/kia_ev6__long_range_.png"
+  },
+  {
+    "id": "audi_q4_etron",
+    "brand": "Audi",
+    "model": "Q4 e-tron 40",
+    "battery_kwh": 76.6,
+    "range_km": 520,
+    "max_charge_power_kw": 135,
+    "image_url": "/assets/cars/audi_q4_e_tron_40.png"
+  },
+  {
+    "id": "porsche_taycan",
+    "brand": "Porsche",
+    "model": "Taycan",
+    "battery_kwh": 79.2,
+    "range_km": 484,
+    "max_charge_power_kw": 270,
+    "image_url": "/assets/cars/porsche_taycan.png"
+  },
+  {
+    "id": "lexus_ux300e",
+    "brand": "Lexus",
+    "model": "UX 300e",
+    "battery_kwh": 72.8,
+    "range_km": 450,
+    "max_charge_power_kw": 50,
+    "image_url": "/assets/cars/lexus_ux_300e.png"
+  },
+  {
+    "id": "lexus_rz450e",
+    "brand": "Lexus",
+    "model": "RZ 450e",
+    "battery_kwh": 71.4,
+    "range_km": 440,
+    "max_charge_power_kw": 150,
+    "image_url": "/assets/cars/lexus_rz_450e.png"
+  },
+  {
+    "id": "changan_deepal_s07",
+    "brand": "Changan",
+    "model": "Deepal S07",
+    "battery_kwh": 82,
+    "range_km": 520,
+    "max_charge_power_kw": 140,
+    "image_url": "/assets/cars/changan_deepal_s07.png"
+  },
+  {
+    "id": "byd_dolphin_mini",
+    "brand": "BYD",
+    "model": "Dolphin Mini",
+    "battery_kwh": 38,
+    "range_km": 405,
+    "max_charge_power_kw": 40,
+    "image_url": "/assets/cars/byd_dolphin_mini.png"
+  },
+  {
+    "id": "volvo_ex90",
+    "brand": "Volvo",
+    "model": "EX90 Twin Motor",
+    "battery_kwh": 111,
+    "range_km": 600,
+    "max_charge_power_kw": 250,
+    "image_url": "/assets/cars/volvo_ex90_twin_motor.png"
+  },
+  {
+    "id": "mg_cyberster",
+    "brand": "MG",
+    "model": "Cyberster",
+    "battery_kwh": 77,
+    "range_km": 520,
+    "max_charge_power_kw": 144,
+    "image_url": "/assets/cars/mg_cyberster.png"
+  },
+  {
+    "id": "generic_safe_ev",
+    "brand": "Other / Generic",
+    "model": "Standard EV Profile",
+    "battery_kwh": 50,
+    "range_km": 350,
+    "max_charge_power_kw": 50,
+    "image_url": "/assets/cars/generic_standard_ev_profile.png"
+  }
+]

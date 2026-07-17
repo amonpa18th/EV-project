@@ -82,7 +82,8 @@ app.get("/stations", async (req, res) => {
     const stations = await Station.find({});
     res.json(stations);
   } catch (err) {
-    res.status(500).json({ error: "Failed to fetch stations from Database" });
+    console.error("❌ /stations Error:", err);
+    res.status(500).json({ error: "Failed to fetch stations from Database", details: err.message });
   }
 });
 

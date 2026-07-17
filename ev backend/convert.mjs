@@ -196,7 +196,11 @@ try {
   }, 1000);
 
 } catch (dbError) {
-  console.error("❌ Database error:", dbError);
+  if (dbError.name === 'MongoBulkWriteError' && dbError.code === 11000) {
+    console.warn("⚠️ Database warning: Some duplicate keys were skipped, but valid stations were saved.");
+  } else {
+    console.error("❌ Database error:", dbError);
+  }
   mongoose.connection.close();
   process.exit(1);
 }
