@@ -654,35 +654,31 @@ const searchLocation = async (type, index = null) => {
     }
 
 
-    const photonUrl = `https://photon.komoot.io/api/?q=${encodeURIComponent(query)}&limit=5&bbox=97.5,5.6,105.7,20.5`;
+    const nominatimUrl = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query)}&format=json&countrycodes=th&limit=5`;
 
-    const res = await fetch(photonUrl, { signal });
+    const res = await fetch(nominatimUrl, { 
+      signal,
+      headers: {
+        "Accept-Language": "th,en"
+      }
+    });
     
     if (!res.ok) {
-      throw new Error(`Photon API returned ${res.status}`);
+      throw new Error(`Nominatim API returned ${res.status}`);
     }
 
     const data = await res.json();
 
-    
-    if (data && data.features) {
-      target.suggestions = data.features.map(feature => {
-        const p = feature.properties || {};
-        const mainName = p.name || 'Unknown Location';
-        // Construct a clean display string from available properties using optional chaining
-        const parts = [];
-        if (p?.street) parts.push(p.street);
-        if (p?.district) parts.push(p.district);
-        if (p?.city) parts.push(p.city);
-        if (p?.state) parts.push(p.state);
-        const subName = parts.filter(Boolean).join(', ');
-        const displayName = subName ? `${mainName}${mainName ? ', ' : ''}${subName}` : mainName;
+    if (Array.isArray(data) && data.length > 0) {
+      target.suggestions = data.map(item => {
+        const parts = (item.display_name || '').split(', ');
+        const mainName = item.name || parts[0] || 'Unknown Location';
         
         return {
-          display_name: displayName,
-          lat: feature.geometry?.coordinates?.[1] || 0,
-          lon: feature.geometry?.coordinates?.[0] || 0,
-          name: mainName || displayName
+          display_name: item.display_name || mainName,
+          lat: parseFloat(item.lat) || 0,
+          lon: parseFloat(item.lon) || 0,
+          name: mainName
         };
       });
     } else {
