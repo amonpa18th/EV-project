@@ -428,6 +428,15 @@
 
     <!-- Sticky Footer Trigger -->
     <div class="sidebar-footer">
+      <div v-if="routeOptions.length > 0" class="nav-actions">
+        <button class="nav-toggle-btn" :class="{ 'nav-active': isNavigating }" @click="triggerNavigation">
+          {{ isNavigating ? 'หยุดนำทาง (Stop Navigation)' : 'เริ่มนำทาง (Start Navigation)' }}
+        </button>
+        <button v-if="!isNavigating" class="sim-btn" @click="triggerSimulation" title="Test drive at 60km/h">
+          Demo
+        </button>
+      </div>
+
       <button v-if="routeOptions.length > 0" @click="clearRoute" class="btn-clear-route">
         &#10005; ล้างเส้นทาง (Clear Route)
       </button>
@@ -981,6 +990,14 @@ const clearRoute = () => {
   selectedRouteIndex.value = 0;
   window.dispatchEvent(new CustomEvent('clear-route'));
 };
+
+const triggerNavigation = () => {
+  window.dispatchEvent(new CustomEvent('trigger-toggle-nav'));
+};
+
+const triggerSimulation = () => {
+  window.dispatchEvent(new CustomEvent('trigger-sim-nav'));
+};
 // ==========================================
 // Mobile Bottom Sheet Logic
 // ==========================================
@@ -1311,6 +1328,15 @@ const mobileSheetStyle = computed(() => {
 .button-spinner { position: static; margin-right: 8px; flex-shrink: 0; border-top-color: #FFFFFF; }
 .btn-clear-route { width: 100%; padding: 9px; margin-bottom: 8px; background: transparent; border: 1.5px solid rgba(255,255,255,0.30); color: rgba(255,255,255,0.80); border-radius: 9999px; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; font-family: 'Kanit', sans-serif; display: flex; align-items: center; justify-content: center; gap: 6px; }
 .btn-clear-route:hover { border-color: rgba(255,100,100,0.70); color: #ff9999; background: rgba(239,68,68,0.10); }
+
+/* Navigation Buttons injected */
+.nav-actions { display: flex; gap: 8px; margin-bottom: 8px; }
+.nav-toggle-btn { flex: 1; padding: 13px 18px; background: linear-gradient(135deg, #10B981 0%, #059669 100%); color: #FFFFFF; border: none; border-radius: 9999px; font-size: 15px; font-weight: 700; cursor: pointer; box-shadow: 0 4px 18px rgba(16, 185, 129, 0.4); font-family: 'Kanit', sans-serif; transition: all 0.25s; }
+.nav-toggle-btn:hover { background: linear-gradient(135deg, #34D399 0%, #10B981 100%); transform: translateY(-2px); }
+.nav-toggle-btn:active { transform: translateY(1px); }
+.nav-toggle-btn.nav-active { background: linear-gradient(135deg, #EF4444 0%, #DC2626 100%); box-shadow: 0 4px 18px rgba(239, 68, 68, 0.4); }
+.sim-btn { background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); color: white; border-radius: 9999px; padding: 0 16px; font-weight: 600; cursor: pointer; font-family: 'Kanit', sans-serif; transition: background 0.2s; }
+.sim-btn:hover { background: rgba(255,255,255,0.2); }
 
 /* ============================================================
    10. ROUTE OPTIONS (white floating)

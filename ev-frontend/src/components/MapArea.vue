@@ -150,16 +150,6 @@
       </l-marker>
     </l-map>
     
-    <!-- Navigation Controls -->
-    <div class="nav-controls" v-if="routeGeometry.length > 0">
-      <button class="nav-toggle-btn" :class="{ 'nav-active': isNavigationMode }" @click="toggleNavigation">
-        {{ isNavigationMode ? 'Stop Navigation' : 'Start Navigation' }}
-      </button>
-      <button v-if="!isNavigationMode" class="sim-btn" @click="startSimulation" title="Test drive at 60km/h">
-        Demo
-      </button>
-    </div>
-
     <!-- Rerouting Overlay -->
     <div v-if="isRerouting" class="rerouting-overlay">
       <div class="rerouting-badge">
@@ -589,6 +579,8 @@ onMounted(async () => {
   window.addEventListener('focus-map-marker', focusMapMarker);
   window.addEventListener('update-map-filters', handleFilterUpdate);
   window.addEventListener('clear-route', handleClearRoute);
+  window.addEventListener('trigger-toggle-nav', toggleNavigation);
+  window.addEventListener('trigger-sim-nav', startSimulation);
 
   // 1. โหลดข้อมูลสถานีตอนเปิดเว็บครั้งแรก
   await loadStations();
@@ -606,6 +598,8 @@ onUnmounted(() => {
   window.removeEventListener('focus-map-marker', focusMapMarker);
   window.removeEventListener('update-map-filters', handleFilterUpdate);
   window.removeEventListener('clear-route', handleClearRoute);
+  window.removeEventListener('trigger-toggle-nav', toggleNavigation);
+  window.removeEventListener('trigger-sim-nav', startSimulation);
   // Bug 2 Fix: properly disconnect the socket to prevent memory leak
   if (socket) {
     socket.disconnect();
