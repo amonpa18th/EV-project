@@ -1005,8 +1005,8 @@ const onTouchMove = (e) => {
   
   let baseOffset = 0;
   const h = window.innerHeight;
-  if (sheetState.value === 'PEEK') baseOffset = h * 0.8;
-  else if (sheetState.value === 'HALF') baseOffset = h * 0.5;
+  if (sheetState.value === 'PEEK') baseOffset = h * 0.65;
+  else if (sheetState.value === 'HALF') baseOffset = h * 0.35;
   else if (sheetState.value === 'FULL') baseOffset = 0;
   
   // Allow dragging up and down with constraint
@@ -1018,9 +1018,9 @@ const onTouchEnd = () => {
   isDragging.value = false;
   
   const h = window.innerHeight;
-  if (sheetY.value < h * 0.3) {
+  if (sheetY.value < h * 0.15) {
     sheetState.value = 'FULL';
-  } else if (sheetY.value < h * 0.65) {
+  } else if (sheetY.value < h * 0.5) {
     sheetState.value = 'HALF';
   } else {
     sheetState.value = 'PEEK';
@@ -1562,7 +1562,7 @@ const mobileSheetStyle = computed(() => {
     left: 0;
     right: 0;
     width: 100vw;
-    height: 100vh; /* We translate it down, so it needs to be tall */
+    height: 85vh; /* Limit height so map is always partially visible */
     z-index: 9999;
     border-radius: 20px 20px 0 0;
     box-shadow: 0 -4px 24px rgba(62, 28, 150, 0.2);
@@ -1571,11 +1571,11 @@ const mobileSheetStyle = computed(() => {
   }
   
   .sheet-state-PEEK {
-    transform: translateY(80vh);
+    transform: translateY(65vh);
   }
   
   .sheet-state-HALF {
-    transform: translateY(50vh);
+    transform: translateY(35vh);
   }
   
   .sheet-state-FULL {
